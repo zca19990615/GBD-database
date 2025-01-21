@@ -1,0 +1,69 @@
+﻿measure,location,sex,age,cause,rei,metric,year,val,upper,lower
+Deaths,China,Female,All ages,Breast cancer,Low physical activity,Number,1990,748.3766201,1399.419435,144.9149943
+Deaths,China,Female,All ages,Breast cancer,Low physical activity,Number,2021,1925.204224,3598.346555,371.1158299
+Deaths,China,Male,All ages,Tuberculosis,Low physical activity,Number,1990,684.4754468,1358.050216,190.0270239
+Deaths,China,Female,All ages,Tuberculosis,Low physical activity,Number,1990,516.9006213,1000.308892,158.7805893
+Deaths,China,Male,All ages,Tuberculosis,Low physical activity,Number,2021,287.1781563,577.1536337,84.6368503
+Deaths,China,Female,All ages,Tuberculosis,Low physical activity,Number,2021,138.8353315,273.9143533,42.83016563
+Deaths,China,Male,All ages,Stroke,Low physical activity,Number,1990,8547.958754,16888.76327,1842.845559
+Deaths,China,Female,All ages,Stroke,Low physical activity,Number,1990,11254.88196,23101.76551,1494.937769
+Deaths,China,Male,All ages,Stroke,Low physical activity,Number,2021,22967.71522,57984.85247,-3592.862953
+Deaths,China,Female,All ages,Stroke,Low physical activity,Number,2021,22535.24454,58752.64659,-9717.488236
+Deaths,China,Male,All ages,Ischemic heart disease,Low physical activity,Number,1990,3477.946012,6721.977555,1307.583595
+Deaths,China,Female,All ages,Ischemic heart disease,Low physical activity,Number,1990,9330.316598,16837.20867,3699.556937
+Deaths,China,Male,All ages,Ischemic heart disease,Low physical activity,Number,2021,19967.85237,41355.26961,6769.927893
+Deaths,China,Female,All ages,Ischemic heart disease,Low physical activity,Number,2021,37752.69923,72337.26452,14451.64105
+Deaths,China,Male,All ages,Colon and rectum cancer,Low physical activity,Number,1990,2219.470315,3598.247087,1248.275728
+Deaths,China,Female,All ages,Colon and rectum cancer,Low physical activity,Number,1990,3515.071887,5225.797664,1965.083335
+Deaths,China,Male,All ages,Colon and rectum cancer,Low physical activity,Number,2021,8205.484453,13219.63764,4355.547923
+Deaths,China,Female,All ages,Colon and rectum cancer,Low physical activity,Number,2021,8492.985035,12936.65366,4653.763207
+Deaths,China,Male,All ages,Diabetes mellitus,Low physical activity,Number,1990,1658.1003,2871.265175,649.7645117
+Deaths,China,Female,All ages,Diabetes mellitus,Low physical activity,Number,1990,3873.969795,6345.090277,1598.954603
+Deaths,China,Male,All ages,Diabetes mellitus,Low physical activity,Number,2021,6632.466919,11247.86386,2682.255205
+Deaths,China,Female,All ages,Diabetes mellitus,Low physical activity,Number,2021,10473.92087,17651.92141,4525.1976
+Deaths,China,Male,All ages,Lower extremity peripheral arterial disease,Low physical activity,Number,1990,7.683588512,16.01685169,1.97351154
+Deaths,China,Female,All ages,Lower extremity peripheral arterial disease,Low physical activity,Number,1990,7.994462308,16.31900335,2.266493983
+Deaths,China,Male,All ages,Lower extremity peripheral arterial disease,Low physical activity,Number,2021,37.49136169,86.65713479,9.70837557
+Deaths,China,Female,All ages,Lower extremity peripheral arterial disease,Low physical activity,Number,2021,33.88209229,68.74768703,9.577183852
+Deaths,China,Male,All ages,Chronic kidney disease,Low physical activity,Number,1990,1243.093542,2289.398367,463.4717138
+Deaths,China,Female,All ages,Chronic kidney disease,Low physical activity,Number,1990,1795.827982,3266.915928,705.6409833
+Deaths,China,Male,All ages,Chronic kidney disease,Low physical activity,Number,2021,4117.770805,7524.466301,1557.012083
+Deaths,China,Female,All ages,Chronic kidney disease,Low physical activity,Number,2021,4582.979225,7919.3207,1695.881959
+Deaths,China,Male,All ages,All causes,Low physical activity,Number,1990,17838.72796,31808.92063,6456.694606
+Deaths,China,Female,All ages,All causes,Low physical activity,Number,1990,31043.33993,53452.41712,13277.7268
+Deaths,China,Male,All ages,All causes,Low physical activity,Number,2021,62215.95929,117007.5457,22342.05286
+Deaths,China,Female,All ages,All causes,Low physical activity,Number,2021,85935.75055,163712.9688,31627.27735
+DALYs (Disability-Adjusted Life Years),China,Male,All ages,Ischemic heart disease,Low physical activity,Number,1990,67959.66516,127957.9296,26364.73864
+DALYs (Disability-Adjusted Life Years),China,Female,All ages,Ischemic heart disease,Low physical activity,Number,1990,169750.6916,291627.0158,66964.82081
+DALYs (Disability-Adjusted Life Years),China,Male,All ages,Ischemic heart disease,Low physical activity,Number,2021,298139.3592,569059.2806,106538.578
+DALYs (Disability-Adjusted Life Years),China,Female,All ages,Ischemic heart disease,Low physical activity,Number,2021,529649.6701,966576.6847,206021.0578
+DALYs (Disability-Adjusted Life Years),China,Male,All ages,Lower extremity peripheral arterial disease,Low physical activity,Number,1990,464.18975,1012.292594,112.863277
+DALYs (Disability-Adjusted Life Years),China,Female,All ages,Lower extremity peripheral arterial disease,Low physical activity,Number,1990,1376.900037,3172.532947,302.7469813
+DALYs (Disability-Adjusted Life Years),China,Male,All ages,Lower extremity peripheral arterial disease,Low physical activity,Number,2021,1476.443367,3319.619849,340.6037972
+DALYs (Disability-Adjusted Life Years),China,Female,All ages,Lower extremity peripheral arterial disease,Low physical activity,Number,2021,3984.986187,8597.657216,923.3380491
+DALYs (Disability-Adjusted Life Years),China,Male,All ages,Stroke,Low physical activity,Number,1990,219411.906,414533.7394,70816.03177
+DALYs (Disability-Adjusted Life Years),China,Female,All ages,Stroke,Low physical activity,Number,1990,291027.4787,514650.1972,107947.0622
+DALYs (Disability-Adjusted Life Years),China,Male,All ages,Stroke,Low physical activity,Number,2021,535726.9774,1069192.273,118034.4222
+DALYs (Disability-Adjusted Life Years),China,Female,All ages,Stroke,Low physical activity,Number,2021,551110.9486,1141093.269,114275.066
+DALYs (Disability-Adjusted Life Years),China,Male,All ages,Diabetes mellitus,Low physical activity,Number,1990,76864.431,136236.2282,28321.4919
+DALYs (Disability-Adjusted Life Years),China,Female,All ages,Diabetes mellitus,Low physical activity,Number,1990,158101.7262,258544.6498,67243.57417
+DALYs (Disability-Adjusted Life Years),China,Male,All ages,Diabetes mellitus,Low physical activity,Number,2021,289718.2327,499625.2528,113796.3172
+DALYs (Disability-Adjusted Life Years),China,Female,All ages,Diabetes mellitus,Low physical activity,Number,2021,467727.2459,747811.6723,195235.1724
+DALYs (Disability-Adjusted Life Years),China,Female,All ages,Breast cancer,Low physical activity,Number,1990,23212.50912,42571.45908,4512.075802
+DALYs (Disability-Adjusted Life Years),China,Female,All ages,Breast cancer,Low physical activity,Number,2021,54895.49702,103414.5204,10086.18737
+DALYs (Disability-Adjusted Life Years),China,Male,All ages,Tuberculosis,Low physical activity,Number,1990,18565.15895,36347.27591,5445.936049
+DALYs (Disability-Adjusted Life Years),China,Female,All ages,Tuberculosis,Low physical activity,Number,1990,13049.79777,25210.39899,3889.824641
+DALYs (Disability-Adjusted Life Years),China,Male,All ages,Tuberculosis,Low physical activity,Number,2021,8646.954157,17377.18442,2576.610096
+DALYs (Disability-Adjusted Life Years),China,Female,All ages,Tuberculosis,Low physical activity,Number,2021,4007.979296,7720.898997,1168.315436
+DALYs (Disability-Adjusted Life Years),China,Male,All ages,Chronic kidney disease,Low physical activity,Number,1990,32538.03752,61299.37939,12258.69159
+DALYs (Disability-Adjusted Life Years),China,Female,All ages,Chronic kidney disease,Low physical activity,Number,1990,46213.29178,83004.43263,17869.54504
+DALYs (Disability-Adjusted Life Years),China,Male,All ages,Chronic kidney disease,Low physical activity,Number,2021,86373.6401,156944.6803,31781.86452
+DALYs (Disability-Adjusted Life Years),China,Female,All ages,Chronic kidney disease,Low physical activity,Number,2021,102721.4675,181078.627,37958.64155
+DALYs (Disability-Adjusted Life Years),China,Male,All ages,Colon and rectum cancer,Low physical activity,Number,1990,49988.48078,81668.50209,26888.74068
+DALYs (Disability-Adjusted Life Years),China,Female,All ages,Colon and rectum cancer,Low physical activity,Number,1990,78364.12275,119872.0747,42820.20819
+DALYs (Disability-Adjusted Life Years),China,Male,All ages,Colon and rectum cancer,Low physical activity,Number,2021,158529.4355,260728.9128,85033.7067
+DALYs (Disability-Adjusted Life Years),China,Female,All ages,Colon and rectum cancer,Low physical activity,Number,2021,161934.9099,246898.8029,87686.19016
+DALYs (Disability-Adjusted Life Years),China,Male,All ages,All causes,Low physical activity,Number,1990,465791.8692,818970.5956,175640.9377
+DALYs (Disability-Adjusted Life Years),China,Female,All ages,All causes,Low physical activity,Number,1990,781096.518,1266403.837,342910.8315
+DALYs (Disability-Adjusted Life Years),China,Male,All ages,All causes,Low physical activity,Number,2021,1378611.042,2402506.026,549771.094
+DALYs (Disability-Adjusted Life Years),China,Female,All ages,All causes,Low physical activity,Number,2021,1876032.704,3233105.766,782403.6177

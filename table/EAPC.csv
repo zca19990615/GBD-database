@@ -1,0 +1,577 @@
+measure,location,sex,age,cause,rei,metric,year,val,upper,lower
+Deaths,China,Both,Age-standardized,All causes,Low physical activity,Rate,1990,8.382606476,14.9417061,3.178054457
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,1991,0.097877854,0.17804565,0.019605965
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,1992,0.099017704,0.182087738,0.020636501
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,1993,0.099487834,0.183862177,0.019982967
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,1994,0.100551855,0.181528737,0.019683315
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,1995,0.101543303,0.179885506,0.021376784
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,1996,0.101711985,0.184098348,0.021700171
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,1997,0.101377916,0.180859369,0.021405214
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,1998,0.101529683,0.182732001,0.021517937
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,1999,0.102658557,0.18474162,0.021476829
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2000,0.1028973,0.191004819,0.021722305
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2001,0.102228206,0.184844797,0.020950956
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2002,0.09955664,0.17529249,0.021117819
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2003,0.098282597,0.176890703,0.021125248
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2004,0.098114661,0.175195486,0.019246497
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2005,0.098012038,0.176495536,0.020669051
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2006,0.095764497,0.173849348,0.019872391
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2007,0.094830641,0.168109167,0.020451544
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2008,0.093912953,0.170396757,0.019155715
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2009,0.092622905,0.164460435,0.019151119
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2010,0.092956293,0.167956873,0.018547885
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2011,0.09335238,0.169525115,0.019335476
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2012,0.090809402,0.166519662,0.017767331
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2013,0.087231643,0.157266744,0.017817022
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2014,0.085110525,0.157947906,0.016255014
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2015,0.085155664,0.152116574,0.016726341
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2016,0.086380575,0.156364645,0.017493787
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2017,0.087678912,0.154502143,0.017317553
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2018,0.089214984,0.162650317,0.018322629
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2019,0.092066989,0.168178353,0.01790551
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2020,0.093537843,0.167223679,0.017963776
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,All causes,Low physical activity,Rate,1990,168.9297578,276.6729471,70.81348365
+Deaths,China,Both,Age-standardized,All causes,Low physical activity,Rate,2021,8.179379599,14.95022803,2.943189279
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,1991,2.828393982,5.129405987,1.151419592
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,1992,2.808084588,5.141190858,1.103853029
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,1993,2.80837953,5.021643536,1.106995871
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,1994,2.803584863,4.846425608,1.128031192
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,1995,2.804145012,4.919829836,1.109964988
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,1996,2.804600301,5.007817413,1.109115053
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,1997,2.813160914,4.903025935,1.099233304
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,1998,2.873915906,4.965573738,1.169929344
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,1999,2.95735504,5.117374787,1.198098416
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2000,3.127409515,5.387704103,1.231095475
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2001,3.287246204,5.650907935,1.304317827
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2002,3.439828024,5.922647542,1.333748167
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2003,3.794014514,6.441521967,1.463227671
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2004,3.974311459,6.593673002,1.506204734
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2005,4.021482184,6.968690435,1.534547026
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2006,3.763877543,6.374445769,1.444987627
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2007,3.693597084,6.274325913,1.418248818
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2008,3.766900192,6.643648935,1.44376234
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2009,3.881312976,6.788443463,1.47155332
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2010,4.000259127,7.100054367,1.59251113
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2011,4.051631806,7.051235801,1.564972658
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2012,3.882121445,6.897060235,1.477050187
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2013,3.905996014,6.964347877,1.508873933
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2014,3.838973478,6.719622854,1.50729719
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2015,3.700434951,6.621436268,1.450222207
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2016,3.638451836,6.600555163,1.463434025
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2017,3.621141593,6.543285733,1.417808292
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2018,3.589811917,6.515947923,1.423989239
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2019,3.561995596,6.704524249,1.444941258
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2020,3.550020956,6.528144693,1.371263644
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,All causes,Low physical activity,Rate,2021,162.5217526,269.9126012,66.38434025
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,1990,0.097403479,0.184799509,0.019549447
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,1991,0.003222274,0.006437128,0.000910129
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,1992,0.003259815,0.006570165,0.000936082
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,1993,0.003301992,0.006534423,0.000920773
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,1994,0.003312606,0.006503827,0.00090691
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,1995,0.003358903,0.006601866,0.000939872
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,1996,0.003342888,0.00646305,0.000924054
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,1997,0.003263813,0.006397446,0.000933301
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,1998,0.00316095,0.006210532,0.000897583
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,1999,0.003085271,0.006047631,0.000856987
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2000,0.003115266,0.006396194,0.000858502
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2001,0.003249352,0.006577076,0.000918031
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2002,0.003329698,0.006605686,0.000905151
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2003,0.003562013,0.007074471,0.001030463
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2004,0.003781155,0.007563996,0.001105059
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2005,0.003769283,0.007524745,0.001062661
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2006,0.003713344,0.007470818,0.001067575
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2007,0.003603522,0.007139381,0.001046711
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2008,0.003733201,0.00738927,0.001084295
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2009,0.003891739,0.007799987,0.001133139
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2010,0.003982382,0.008104217,0.001128734
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2011,0.003893089,0.007847529,0.001120358
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2012,0.003738473,0.007436107,0.001066639
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2013,0.003668736,0.007383214,0.000977894
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2014,0.003573213,0.007021031,0.001004673
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2015,0.003487178,0.007059308,0.001022944
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2016,0.003499729,0.007240631,0.000982812
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2017,0.003569572,0.007222829,0.001038071
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2018,0.003630352,0.007445761,0.001057786
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2019,0.003714678,0.007413374,0.001109803
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2020,0.003770454,0.007962471,0.001078108
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,1990,2.560914946,4.75805026,0.501296375
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2021,0.094111491,0.17295331,0.018080145
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,1991,2.841550885,6.942042511,-0.896258003
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,1992,2.826103824,7.00576754,-0.896129727
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,1993,2.824168253,7.11426317,-0.908893284
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,1994,2.805697542,6.852558163,-0.980910919
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,1995,2.794597682,6.980921352,-1.051797475
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,1996,2.772165799,6.810661793,-1.058593457
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,1997,2.737678372,6.726615298,-1.096704142
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,1998,2.75332318,6.863272512,-1.075558431
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,1999,2.78502999,7.016559854,-1.103178748
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2000,2.883030017,7.409483144,-1.146161958
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2001,2.940975087,7.421328197,-1.228590406
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2002,2.950206928,7.577121443,-1.211679003
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2003,3.059550304,7.918349747,-1.403206703
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2004,3.112738802,8.057265693,-1.420830155
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2005,3.047562345,7.971477281,-1.507447404
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2006,2.794218901,7.006828052,-1.394260067
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2007,2.683166487,7.0712882,-1.391117164
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2008,2.664863096,6.855422538,-1.449999737
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2009,2.67791644,6.878494549,-1.482399948
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2010,2.678901331,7.0004023,-1.528468174
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2011,2.637702352,6.896985266,-1.359473643
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2012,2.558476818,6.742762842,-1.169236486
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2013,2.511852412,6.466643459,-1.247064246
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2014,2.455465197,6.476284911,-1.216150069
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2015,2.399901246,6.21621232,-1.149228885
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2016,2.387027963,6.286099389,-1.106191022
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2017,2.3702603,6.216148445,-1.124261855
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2018,2.33357246,5.962609467,-1.046624523
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2019,2.323603753,6.148165698,-1.01698758
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2020,2.310078399,6.256923516,-1.137301066
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2021,2.6091298,4.906934131,0.473055896
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,1990,0.547167783,0.968248348,0.225301825
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,1991,0.925327259,1.362502914,0.55088002
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,1992,0.922937568,1.339095972,0.559290539
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,1993,0.918896094,1.317743344,0.543749352
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,1994,0.913433226,1.303659162,0.544494799
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,1995,0.910889981,1.307243416,0.540393062
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,1996,0.901391066,1.287155215,0.555646422
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,1997,0.889393246,1.276011697,0.540700621
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,1998,0.885753357,1.267495462,0.548223745
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,1999,0.885354653,1.257866938,0.547847994
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2000,0.894068405,1.289840312,0.557531211
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2001,0.896833667,1.263370018,0.536581204
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2002,0.883764727,1.248670924,0.537427746
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2003,0.895189027,1.279601325,0.54903469
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2004,0.907765221,1.285440435,0.544585443
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2005,0.9005152,1.27737764,0.530566907
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2006,0.853067489,1.200306932,0.523461493
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2007,0.838116246,1.171451872,0.506994712
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2008,0.841977865,1.167252223,0.511986848
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2009,0.849210055,1.185420428,0.504538967
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2010,0.85819872,1.208716517,0.508220512
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2011,0.861275937,1.214026687,0.508723442
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2012,0.844429255,1.183945987,0.501556886
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2013,0.829441949,1.171273462,0.489617273
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2014,0.819480226,1.151795701,0.487289744
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2015,0.823167772,1.156787491,0.506008677
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2016,0.835439578,1.201572692,0.516773876
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2017,0.838996726,1.201104229,0.517631934
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2018,0.847803741,1.212774117,0.501467151
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2019,0.862534511,1.246117452,0.532280526
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2020,0.869446012,1.26885142,0.51412361
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,1990,11.03907841,19.51674719,4.445737892
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2021,0.47836956,0.832406106,0.186131137
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,1991,0.164454911,0.305786969,0.050868774
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,1992,0.153916659,0.294429986,0.047858644
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,1993,0.142474339,0.268340196,0.043087899
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,1994,0.131196092,0.248923202,0.039429763
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,1995,0.121431953,0.223285607,0.037086657
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,1996,0.112246261,0.212493016,0.035485742
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,1997,0.103898966,0.191506328,0.031087841
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,1998,0.096605246,0.179634671,0.030008407
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,1999,0.091948094,0.171250353,0.028168396
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2000,0.090361285,0.172525907,0.027594091
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2001,0.086797259,0.161842302,0.026011463
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2002,0.08452877,0.159422822,0.025594621
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2003,0.082996282,0.157732219,0.025080702
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2004,0.079460546,0.152048767,0.024036065
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2005,0.072817759,0.136880445,0.022655458
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2006,0.060788639,0.118087072,0.018633634
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2007,0.05325521,0.104433101,0.016717857
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2008,0.048076246,0.093220977,0.014995744
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2009,0.043244013,0.0836141,0.013056596
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2010,0.039524874,0.076695534,0.012320184
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2011,0.036241521,0.069775641,0.011496319
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2012,0.033513534,0.064373362,0.010628538
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2013,0.030843587,0.058424447,0.009914541
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2014,0.028728459,0.054136095,0.009433225
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2015,0.027683499,0.051651373,0.008654864
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2016,0.026635568,0.049086722,0.008719178
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2017,0.025080228,0.048213207,0.007764958
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2018,0.023652068,0.043335563,0.00768372
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2019,0.022386827,0.041663011,0.00688233
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2020,0.021519537,0.03937297,0.006716428
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2021,9.42702119,16.48038774,3.585069397
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,1990,0.931592346,1.356826713,0.5472515
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,1991,0.879978101,1.413412837,0.362117664
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,1992,0.884336303,1.423230745,0.380083431
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,1993,0.891736985,1.42457738,0.382002078
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,1994,0.900726682,1.388491387,0.368310347
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,1995,0.911514538,1.417469557,0.393620225
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,1996,0.921848581,1.437333998,0.403960307
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,1997,0.928412346,1.447338198,0.404874771
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,1998,0.954004567,1.475769501,0.42274273
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,1999,0.980623037,1.531531567,0.436740884
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2000,1.015352459,1.612338964,0.438894393
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2001,1.040641168,1.604799595,0.472213579
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2002,1.053422074,1.64387279,0.470227625
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2003,1.094642352,1.694810932,0.493419416
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2004,1.123733518,1.731474701,0.486371379
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2005,1.106777839,1.731495216,0.484259907
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2006,1.024198991,1.570403832,0.450471037
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2007,0.98621216,1.507283099,0.436452113
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2008,0.981572077,1.538768116,0.424347341
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2009,0.98787109,1.543985191,0.44023145
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2010,0.991789775,1.548132425,0.412193665
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2011,0.977637817,1.504495202,0.413561827
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2012,0.949979127,1.494078002,0.393739403
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2013,0.943529483,1.463757952,0.411568688
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2014,0.941019444,1.464716354,0.393271221
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2015,0.93117751,1.453668821,0.399901849
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2016,0.931556088,1.485079409,0.409442074
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2017,0.928511872,1.485683638,0.394769716
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2018,0.916719332,1.450162074,0.381522205
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2019,0.906821317,1.450794079,0.402429218
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2020,0.903768789,1.446286345,0.389050392
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,1990,17.11754741,24.93492163,10.058143
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2021,0.869591316,1.288235186,0.526101959
+Deaths,China,Both,Age-standardized,All causes,Low physical activity,Rate,1991,8.287940126,14.69212395,3.027681021
+Deaths,China,Both,Age-standardized,All causes,Low physical activity,Rate,1992,8.243078969,14.91707357,3.163650273
+Deaths,China,Both,Age-standardized,All causes,Low physical activity,Rate,1993,8.228417082,14.95748961,2.982884089
+Deaths,China,Both,Age-standardized,All causes,Low physical activity,Rate,1994,8.195386841,14.91609718,2.874871359
+Deaths,China,Both,Age-standardized,All causes,Low physical activity,Rate,1995,8.178764441,14.65035453,2.965021106
+Deaths,China,Both,Age-standardized,All causes,Low physical activity,Rate,1996,8.136557282,14.82128813,2.930565015
+Deaths,China,Both,Age-standardized,All causes,Low physical activity,Rate,1997,8.078165779,14.71540391,2.888053432
+Deaths,China,Both,Age-standardized,All causes,Low physical activity,Rate,1998,8.151023518,14.76271418,2.858103107
+Deaths,China,Both,Age-standardized,All causes,Low physical activity,Rate,1999,8.275385971,15.4247667,2.914026011
+Deaths,China,Both,Age-standardized,All causes,Low physical activity,Rate,2000,8.588217819,15.425216,2.931843046
+Deaths,China,Both,Age-standardized,All causes,Low physical activity,Rate,2001,8.838741529,15.85476493,2.92618903
+Deaths,China,Both,Age-standardized,All causes,Low physical activity,Rate,2002,9.002348513,16.04000832,3.097087023
+Deaths,China,Both,Age-standardized,All causes,Low physical activity,Rate,2003,9.538695863,17.18439255,3.237951256
+Deaths,China,Both,Age-standardized,All causes,Low physical activity,Rate,2004,9.828151553,17.29102899,3.352630316
+Deaths,China,Both,Age-standardized,All causes,Low physical activity,Rate,2005,9.774640946,17.71710452,3.462109521
+Deaths,China,Both,Age-standardized,All causes,Low physical activity,Rate,2006,9.084584988,16.31286048,3.251280293
+Deaths,China,Both,Age-standardized,All causes,Low physical activity,Rate,2007,8.831225088,16.13439195,3.18042901
+Deaths,China,Both,Age-standardized,All causes,Low physical activity,Rate,2008,8.883623375,16.06754221,3.159629423
+Deaths,China,Both,Age-standardized,All causes,Low physical activity,Rate,2009,9.024726977,16.54464721,3.251910418
+Deaths,China,Both,Age-standardized,All causes,Low physical activity,Rate,2010,9.160984069,17.11534695,3.321948415
+Deaths,China,Both,Age-standardized,All causes,Low physical activity,Rate,2011,9.149239041,16.46648713,3.220094176
+Deaths,China,Both,Age-standardized,All causes,Low physical activity,Rate,2012,8.833796202,16.07634012,3.215925584
+Deaths,China,Both,Age-standardized,All causes,Low physical activity,Rate,2013,8.779004626,16.07047198,3.142062187
+Deaths,China,Both,Age-standardized,All causes,Low physical activity,Rate,2014,8.63036754,15.77805967,3.11185084
+Deaths,China,Both,Age-standardized,All causes,Low physical activity,Rate,2015,8.420613414,15.29885941,3.095602595
+Deaths,China,Both,Age-standardized,All causes,Low physical activity,Rate,2016,8.356641789,15.49971924,3.163961437
+Deaths,China,Both,Age-standardized,All causes,Low physical activity,Rate,2017,8.324928874,15.34614389,3.178238261
+Deaths,China,Both,Age-standardized,All causes,Low physical activity,Rate,2018,8.2549291,14.93544447,3.029468684
+Deaths,China,Both,Age-standardized,All causes,Low physical activity,Rate,2019,8.223938237,14.87854081,3.038368084
+Deaths,China,Both,Age-standardized,All causes,Low physical activity,Rate,2020,8.202667544,15.18188236,2.903428481
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2021,15.6345691,22.8838057,9.467683345
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,1990,0.889682856,1.398717445,0.374562153
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,1991,0.54713486,0.9514034,0.21660613
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,1992,0.545422509,0.965038762,0.208470754
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,1993,0.539972055,0.930846233,0.213564671
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,1994,0.536883974,0.953346057,0.212082905
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,1995,0.531283069,0.930730618,0.207764801
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,1996,0.519250402,0.914200524,0.206512535
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,1997,0.500980206,0.880679713,0.197749381
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,1998,0.482730629,0.846681361,0.192382766
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,1999,0.469331329,0.81725239,0.183539681
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2000,0.471983573,0.825815873,0.189277645
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2001,0.480770585,0.839625464,0.189104166
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2002,0.487711652,0.858209075,0.195602433
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2003,0.510458775,0.879604033,0.197858599
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2004,0.52824619,0.914731347,0.211970086
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2005,0.523704298,0.917939536,0.204075203
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2006,0.488955584,0.854595625,0.192664844
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2007,0.478443737,0.848552048,0.187258162
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2008,0.482587745,0.816876108,0.195549369
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2009,0.488657758,0.823718151,0.19566204
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2010,0.495371567,0.848904586,0.196913918
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2011,0.48750414,0.840388448,0.196143406
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2012,0.470728149,0.808593404,0.18813684
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2013,0.466440801,0.806125006,0.18884002
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2014,0.458016998,0.799050199,0.1873833
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2015,0.449605594,0.783225672,0.178459231
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2016,0.447650454,0.784909958,0.170253651
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2017,0.449689671,0.801050054,0.166776427
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2018,0.450524246,0.792064507,0.179826257
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2019,0.450814565,0.793999303,0.176018543
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2020,0.450525554,0.793520914,0.179283556
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,1990,30.12124518,46.94710089,12.64234872
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2021,0.896080222,1.46785859,0.398463649
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,1991,40.16461773,69.66312627,16.65378816
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,1992,39.80366367,69.60632721,16.50047842
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,1993,39.65120787,67.55927581,16.10105078
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,1994,39.37936981,65.6188759,16.51570496
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,1995,39.1865585,67.06815893,16.70919848
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,1996,38.98373131,66.6964528,16.23032571
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,1997,38.90551813,65.07810425,15.62441436
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,1998,39.49706996,65.36179855,16.61945563
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,1999,40.41949395,67.34405227,16.89937549
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2000,42.35846558,71.51529894,17.56965434
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2001,44.01665905,72.41491768,17.96147458
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2002,45.77068762,76.12239481,18.68673621
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2003,49.59592635,80.59417009,20.85731845
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2004,51.70136758,83.2782437,21.25638758
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2005,52.04940669,86.76463564,21.48556203
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2006,48.91593272,80.73901337,19.77921583
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2007,47.89765286,78.0534746,19.24280575
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2008,48.64735511,82.58998974,20.22344255
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2009,49.96083925,84.51832949,19.98672096
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2010,51.34416534,87.86996455,21.04808308
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2011,52.15217059,87.60916116,21.30986516
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2012,50.45495339,85.98423986,20.14023786
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2013,50.76043052,86.44786203,20.44919481
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2014,49.84764167,84.1679609,21.14725793
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2015,48.25536329,82.71683627,19.49955964
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2016,47.42227445,82.34215136,20.20164159
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2017,47.214459,81.73798786,19.70191318
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2018,46.85720779,81.12494185,19.82257357
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2019,46.52556586,84.14212422,19.52344837
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2020,46.37740053,81.02100746,18.39770375
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2021,36.54348908,58.04056669,15.84613302
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,1990,2.863260708,5.374484311,1.115400628
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Stroke,Low physical activity,Rate,1991,62.44854284,124.8543221,11.5032687
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Stroke,Low physical activity,Rate,1992,62.1091653,123.2137788,11.97715368
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Stroke,Low physical activity,Rate,1993,61.89706332,125.8418635,11.19082147
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Stroke,Low physical activity,Rate,1994,61.31556744,119.9432448,11.66933122
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Stroke,Low physical activity,Rate,1995,60.89241894,120.7166577,11.67950996
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Stroke,Low physical activity,Rate,1996,60.19024399,119.9073121,11.10808383
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Stroke,Low physical activity,Rate,1997,59.20717867,118.3342616,9.29138941
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Stroke,Low physical activity,Rate,1998,59.21526184,117.9010319,7.704094447
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Stroke,Low physical activity,Rate,1999,59.56429741,123.1566722,8.208222486
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Stroke,Low physical activity,Rate,2000,61.04829575,125.5529505,7.835500305
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Stroke,Low physical activity,Rate,2001,61.76899704,125.8153175,5.487760813
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Stroke,Low physical activity,Rate,2002,61.94011784,127.0157473,5.892910994
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Stroke,Low physical activity,Rate,2003,63.57194309,129.477323,5.667267805
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Stroke,Low physical activity,Rate,2004,64.3837965,132.0411361,5.265552442
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Stroke,Low physical activity,Rate,2005,63.02854617,131.3359361,4.909036497
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Stroke,Low physical activity,Rate,2006,58.84887932,118.9878293,6.086792248
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Stroke,Low physical activity,Rate,2007,56.8452637,117.8089127,6.324371528
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Stroke,Low physical activity,Rate,2008,56.45328866,115.9936714,5.513486563
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Stroke,Low physical activity,Rate,2009,56.58388418,116.2477752,6.031246217
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Stroke,Low physical activity,Rate,2010,56.57575162,116.7579854,5.170972837
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Stroke,Low physical activity,Rate,2011,56.10310105,116.2468446,6.018976568
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Stroke,Low physical activity,Rate,2012,55.18550749,113.9013502,7.128310364
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Stroke,Low physical activity,Rate,2013,54.37316435,112.5672106,5.507170811
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Stroke,Low physical activity,Rate,2014,53.39357078,111.1619581,4.991999394
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Stroke,Low physical activity,Rate,2015,52.64540947,107.3358151,5.275393344
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Stroke,Low physical activity,Rate,2016,52.46986742,111.6821631,4.848220801
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Stroke,Low physical activity,Rate,2017,52.24071847,111.7951842,5.181407036
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Stroke,Low physical activity,Rate,2018,51.74729658,105.967986,4.786029648
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Stroke,Low physical activity,Rate,2019,51.61766706,109.3719837,4.723715568
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Stroke,Low physical activity,Rate,2020,51.37468422,111.1520726,4.816692816
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,1990,40.71938884,71.07527389,16.74697955
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2021,3.521785367,6.579285217,1.429824727
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,1991,0.279658929,0.611114514,0.065544988
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,1992,0.283372922,0.624977593,0.067704656
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,1993,0.286095154,0.62443431,0.066352764
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,1994,0.287467418,0.628082229,0.066820335
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,1995,0.288868695,0.635771522,0.068138364
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,1996,0.284967166,0.63173364,0.067306905
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,1997,0.274255145,0.60412074,0.0648275
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,1998,0.26124693,0.576322323,0.061398016
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,1999,0.250063867,0.552340595,0.058708466
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2000,0.246288821,0.532979832,0.058574074
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2001,0.24987845,0.534835149,0.058663223
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2002,0.255411515,0.545886275,0.060173398
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2003,0.264109161,0.556663256,0.062575865
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2004,0.272095018,0.578017764,0.063806877
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2005,0.274539402,0.58559249,0.064005116
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2006,0.273502763,0.587582356,0.064217599
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2007,0.269507622,0.584724924,0.064053748
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2008,0.267796913,0.578392986,0.061924109
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2009,0.266751183,0.579071961,0.062331569
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2010,0.2656213,0.575334747,0.062442301
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2011,0.260316864,0.563375089,0.060935242
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2012,0.253430097,0.545451315,0.060081523
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2013,0.247727689,0.538888146,0.059350734
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2014,0.242511717,0.522877404,0.057995308
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2015,0.239218002,0.521961545,0.057486078
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2016,0.238593003,0.511513261,0.056726257
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2017,0.240552464,0.517496125,0.057768878
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2018,0.242815114,0.512119082,0.05801361
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2019,0.24506217,0.52218207,0.059003771
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2020,0.247047124,0.519281913,0.058925009
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2021,46.05091028,83.48182876,19.74131607
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,1990,0.003154578,0.006224353,0.000902637
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,1991,30.47629276,48.1505478,12.57418359
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,1992,31.03202377,48.63124555,12.78167932
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,1993,31.55312216,49.54906935,12.9683659
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,1994,32.02353563,49.65353698,12.99344534
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,1995,32.37620214,51.10955121,13.23371352
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,1996,32.65062828,51.20756518,13.48089487
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,1997,32.89438194,51.70627451,13.69710577
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,1998,33.43917312,52.74267443,14.02586923
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,1999,33.95501909,52.93637293,14.26101821
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2000,34.48860453,53.98995285,14.91793112
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2001,34.85541709,54.76796127,14.89468583
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2002,35.18233847,54.831304,15.20451289
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2003,35.87113223,56.13957543,15.36595554
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2004,36.3792275,56.26540703,16.00924364
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2005,36.08969894,57.08016726,15.80858794
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2006,34.82205558,54.58471546,15.58352571
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2007,34.20654227,53.39114368,15.11645912
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2008,34.1386955,53.18190565,15.1047073
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2009,34.2926568,53.90812023,15.22882742
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2010,34.43800666,54.01868086,15.47606494
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2011,34.37459006,54.11927095,15.49450206
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2012,34.13335536,54.58726149,15.48816597
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2013,34.05452956,54.36644264,15.41187727
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2014,34.08187343,53.81949235,15.32335521
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2015,34.1132532,54.52259653,15.03348012
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2016,34.50449474,54.13460609,15.34458437
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2017,35.17531709,55.24959051,15.48226612
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2018,35.77771628,57.35706251,15.6250125
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2019,36.11471384,58.14287038,15.66430134
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2020,36.2467026,57.93282528,15.9749424
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,1990,0.274393788,0.60381162,0.065948636
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.004138419,0.008358582,0.001173358
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,1991,2.564086825,4.690273521,0.502899842
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,1992,2.57845826,4.745732951,0.540315614
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,1993,2.579337483,4.680379087,0.523691696
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,1994,2.597319285,4.711037976,0.521148027
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,1995,2.605655616,4.662146678,0.52581359
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,1996,2.606050473,4.713926481,0.527514229
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,1997,2.59481772,4.654867571,0.527853845
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,1998,2.601530661,4.650001315,0.527853135
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,1999,2.627693135,4.708020638,0.534238819
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2000,2.632425511,4.731425373,0.553272012
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2001,2.613028932,4.669210946,0.539975821
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2002,2.569817768,4.62315929,0.552146354
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2003,2.555729587,4.573112683,0.527301097
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2004,2.556217299,4.478772282,0.516419783
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2005,2.551111959,4.513639489,0.530492379
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2006,2.510660497,4.553494122,0.528418276
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2007,2.494373721,4.492668954,0.512519683
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2008,2.47828262,4.386357656,0.497747984
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2009,2.459376037,4.29089229,0.488979682
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2010,2.475410256,4.398678332,0.492283574
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2011,2.474448955,4.558359961,0.503036975
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2012,2.422661451,4.441291835,0.467948533
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2013,2.367182846,4.168358736,0.484767609
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2014,2.337631068,4.342597151,0.439712874
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2015,2.331048188,4.106099566,0.448555348
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2016,2.359807289,4.211628147,0.468030393
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2017,2.421248317,4.318788202,0.463008407
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2018,2.47015357,4.561481226,0.490220593
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2019,2.542850151,4.705167928,0.479270718
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2020,2.584930593,4.576813456,0.468100354
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.269559104,0.576365312,0.064874404
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,1990,2.877890695,6.94736301,-0.9017891
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,1991,16.95920989,25.10288542,9.885912882
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,1992,16.8324451,24.2880694,10.08474614
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,1993,16.6853525,24.1986363,9.922076547
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,1994,16.49577333,23.60952718,9.707823595
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,1995,16.33850968,23.50160311,9.845720359
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,1996,16.09365473,22.96930256,9.953838395
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,1997,15.82968937,22.27259249,9.522976725
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,1998,15.7149455,22.08532272,9.726866977
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,1999,15.65014775,22.18727828,9.599376123
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2000,15.71018336,22.43961738,9.584179942
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2001,15.6493826,21.88681348,9.690446917
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2002,15.44715023,21.57370757,9.480811812
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2003,15.55146587,21.84063971,9.50358882
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2004,15.71335191,21.70480607,9.552971338
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2005,15.5490928,21.69596292,9.445240182
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2006,14.82296719,20.67271646,9.314389666
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2007,14.5421459,20.41393529,8.996894179
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2008,14.5944048,20.21137824,9.196018453
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2009,14.73284346,20.50660959,9.106431118
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2010,14.89222084,20.8083208,9.145392229
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2011,14.96578892,21.01607565,9.044436176
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2012,14.79689019,20.56110924,8.98066025
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2013,14.60247209,20.45746683,8.945236141
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2014,14.45579218,20.10702256,8.659570458
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2015,14.52264601,20.32336628,8.650788019
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2016,14.72768423,21.02929589,9.260574783
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2017,14.88519314,21.59704591,9.280830585
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2018,15.1053392,21.5018972,9.069931837
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2019,15.39832775,21.96051196,9.315856105
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2020,15.57161721,22.59105299,9.060324742
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Stroke,Low physical activity,Rate,1990,63.23567544,124.9182307,11.04987928
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2021,2.294290347,6.20057859,-1.036614402
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,1991,10.92916238,19.67364774,4.163846574
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,1992,10.7961326,18.94599709,4.156086776
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,1993,10.60684113,18.82853993,4.107360353
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,1994,10.47593961,18.94380663,4.130919205
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,1995,10.34824005,18.65579428,4.067686215
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,1996,10.13458651,17.93157676,4.053701538
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,1997,9.820378634,17.17225561,3.794493458
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,1998,9.530876189,16.71575131,3.714263592
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,1999,9.333014155,16.49667725,3.60391519
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2000,9.384921465,16.39260336,3.659700335
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2001,9.575692247,16.86732236,3.685834284
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2002,9.834919414,17.42310384,3.825689342
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2003,10.28753809,17.92413696,3.96491685
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2004,10.67643134,18.57156459,4.205434546
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2005,10.64938941,18.72831711,4.173622321
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2006,10.12605009,17.71247033,3.953414476
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2007,9.879856793,17.50985084,3.88888317
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2008,9.835831407,17.07155084,3.896612753
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2009,9.831783655,17.23071617,3.80680321
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2010,9.858985288,17.20886927,3.867661675
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2011,9.695977082,16.68930581,3.753277287
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2012,9.431393713,16.22541386,3.633105384
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2013,9.297834967,16.23149496,3.596546608
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2014,9.128669833,15.82700247,3.587742584
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2015,8.993928845,15.77462098,3.361320245
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2016,8.929856471,15.68076053,3.310542233
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2017,8.929890705,16.01217869,3.329952487
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2018,8.930537577,15.4852333,3.417235715
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2019,8.920749299,15.55233786,3.373862587
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2020,8.923103172,15.73104318,3.360277839
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Stroke,Low physical activity,Rate,2021,51.38361073,108.8427069,6.162312098
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,1990,0.172454031,0.328039696,0.053947447
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,1991,3.688298366,7.039479063,1.106299332
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,1992,3.462452582,6.673352303,1.051460979
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,1993,3.218691935,6.17307674,0.949466948
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,1994,2.975432528,5.588838937,0.908824446
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,1995,2.772248239,5.17791545,0.819131481
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,1996,2.582735618,4.911526217,0.765284806
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,1997,2.411313559,4.427412148,0.723537074
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,1998,2.263595122,4.212146758,0.712115168
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,1999,2.164996125,4.091930675,0.658272563
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2000,2.116833012,3.956124797,0.650386991
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2001,2.030229771,3.79933695,0.613812629
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2002,1.974845067,3.734449092,0.597940164
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2003,1.932110347,3.589370295,0.594310982
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2004,1.851271658,3.488303032,0.542927436
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2005,1.704491825,3.202923179,0.514812831
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2006,1.478518796,2.78994502,0.450138468
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2007,1.33104649,2.52291604,0.419667846
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2008,1.226116707,2.339283549,0.373815383
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2009,1.126731409,2.164649932,0.343024225
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2010,1.048538545,2.007975182,0.325290259
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2011,0.975677177,1.812702881,0.30452737
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2012,0.909752721,1.690831602,0.275367307
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2013,0.842684552,1.573604019,0.266188913
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2014,0.78921297,1.478843135,0.257153314
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2015,0.760643894,1.40803182,0.240940586
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2016,0.734206026,1.348343138,0.240036722
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2017,0.699941501,1.291510462,0.216076631
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2018,0.668305598,1.224383217,0.201501266
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2019,0.640183356,1.179148084,0.199827555
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2020,0.618879609,1.147784964,0.190624799
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,1990,3.861513763,7.426051613,1.218310717
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2021,0.021012876,0.040521663,0.006570065
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,All causes,Low physical activity,Rate,1991,167.5098697,280.5359126,70.92281397
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,All causes,Low physical activity,Rate,1992,166.8977142,278.2464189,69.13754936
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,All causes,Low physical activity,Rate,1993,166.4777116,274.8651307,71.19008281
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,All causes,Low physical activity,Rate,1994,165.5504051,270.9182188,70.47306606
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,All causes,Low physical activity,Rate,1995,164.8087019,271.4788236,69.41101584
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,All causes,Low physical activity,Rate,1996,163.5265981,273.6206566,69.08477232
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,All causes,Low physical activity,Rate,1997,161.9375332,263.9810697,69.11302045
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,All causes,Low physical activity,Rate,1998,162.5236993,267.8409233,70.12183966
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,All causes,Low physical activity,Rate,1999,163.9647255,276.6376575,70.56171744
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,All causes,Low physical activity,Rate,2000,167.986018,281.9955848,73.31381015
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,All causes,Low physical activity,Rate,2001,170.7592852,284.5380923,73.64243449
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,All causes,Low physical activity,Rate,2002,172.9752879,287.3036861,77.00937381
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,All causes,Low physical activity,Rate,2003,179.6299547,298.901234,78.68215738
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,All causes,Low physical activity,Rate,2004,183.5337588,304.1786251,79.64976001
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,All causes,Low physical activity,Rate,2005,181.8962772,306.2453502,78.08707368
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,All causes,Low physical activity,Rate,2006,171.798567,285.4008004,73.86154931
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,All causes,Low physical activity,Rate,2007,167.4663893,281.0784889,70.23221594
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,All causes,Low physical activity,Rate,2008,167.6417717,279.7339094,70.32013492
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,All causes,Low physical activity,Rate,2009,169.254866,278.5165702,69.49305744
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,All causes,Low physical activity,Rate,2010,170.8986998,287.5964275,69.6954466
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,All causes,Low physical activity,Rate,2011,171.0020707,284.0603886,70.75935256
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,All causes,Low physical activity,Rate,2012,167.5879444,281.5975152,69.47121473
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,All causes,Low physical activity,Rate,2013,166.5460266,279.929328,70.0692098
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,All causes,Low physical activity,Rate,2014,164.2769037,274.0197662,68.10403763
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,All causes,Low physical activity,Rate,2015,161.8615109,266.5748431,67.01485743
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,All causes,Low physical activity,Rate,2016,161.3867836,266.239348,68.74149533
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,All causes,Low physical activity,Rate,2017,161.8073207,267.9791252,68.07372614
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,All causes,Low physical activity,Rate,2018,161.7993717,261.2608498,67.87721236
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,All causes,Low physical activity,Rate,2019,162.0051195,267.7720825,68.80147909
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,All causes,Low physical activity,Rate,2020,161.9443651,269.9284742,69.44695367
+DALYs (Disability-Adjusted Life Years),China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2021,0.603463362,1.155986521,0.186665456
