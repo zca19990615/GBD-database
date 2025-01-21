@@ -1,0 +1,257 @@
+measure,location,sex,age,cause,rei,metric,year,val,upper,lower
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,1990,0.097403479,0.184799509,0.019549447
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,1991,0.097877854,0.17804565,0.019605965
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,1992,0.099017704,0.182087738,0.020636501
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,1993,0.099487834,0.183862177,0.019982967
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,1994,0.100551855,0.181528737,0.019683315
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,1995,0.101543303,0.179885506,0.021376784
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,1996,0.101711985,0.184098348,0.021700171
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,1997,0.101377916,0.180859369,0.021405214
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,1998,0.101529683,0.182732001,0.021517937
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,1999,0.102658557,0.18474162,0.021476829
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2000,0.1028973,0.191004819,0.021722305
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2001,0.102228206,0.184844797,0.020950956
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2002,0.09955664,0.17529249,0.021117819
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2003,0.098282597,0.176890703,0.021125248
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2004,0.098114661,0.175195486,0.019246497
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2005,0.098012038,0.176495536,0.020669051
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2006,0.095764497,0.173849348,0.019872391
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2007,0.094830641,0.168109167,0.020451544
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2008,0.093912953,0.170396757,0.019155715
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2009,0.092622905,0.164460435,0.019151119
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2010,0.092956293,0.167956873,0.018547885
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2011,0.09335238,0.169525115,0.019335476
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2012,0.090809402,0.166519662,0.017767331
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2013,0.087231643,0.157266744,0.017817022
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2014,0.085110525,0.157947906,0.016255014
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2015,0.085155664,0.152116574,0.016726341
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2016,0.086380575,0.156364645,0.017493787
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2017,0.087678912,0.154502143,0.017317553
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2018,0.089214984,0.162650317,0.018322629
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2019,0.092066989,0.168178353,0.01790551
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2020,0.093537843,0.167223679,0.017963776
+Deaths,China,Both,Age-standardized,Breast cancer,Low physical activity,Rate,2021,0.094111491,0.17295331,0.018080145
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,1990,0.172454031,0.328039696,0.053947447
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,1991,0.164454911,0.305786969,0.050868774
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,1992,0.153916659,0.294429986,0.047858644
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,1993,0.142474339,0.268340196,0.043087899
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,1994,0.131196092,0.248923202,0.039429763
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,1995,0.121431953,0.223285607,0.037086657
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,1996,0.112246261,0.212493016,0.035485742
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,1997,0.103898966,0.191506328,0.031087841
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,1998,0.096605246,0.179634671,0.030008407
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,1999,0.091948094,0.171250353,0.028168396
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2000,0.090361285,0.172525907,0.027594091
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2001,0.086797259,0.161842302,0.026011463
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2002,0.08452877,0.159422822,0.025594621
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2003,0.082996282,0.157732219,0.025080702
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2004,0.079460546,0.152048767,0.024036065
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2005,0.072817759,0.136880445,0.022655458
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2006,0.060788639,0.118087072,0.018633634
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2007,0.05325521,0.104433101,0.016717857
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2008,0.048076246,0.093220977,0.014995744
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2009,0.043244013,0.0836141,0.013056596
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2010,0.039524874,0.076695534,0.012320184
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2011,0.036241521,0.069775641,0.011496319
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2012,0.033513534,0.064373362,0.010628538
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2013,0.030843587,0.058424447,0.009914541
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2014,0.028728459,0.054136095,0.009433225
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2015,0.027683499,0.051651373,0.008654864
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2016,0.026635568,0.049086722,0.008719178
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2017,0.025080228,0.048213207,0.007764958
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2018,0.023652068,0.043335563,0.00768372
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2019,0.022386827,0.041663011,0.00688233
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2020,0.021519537,0.03937297,0.006716428
+Deaths,China,Both,Age-standardized,Tuberculosis,Low physical activity,Rate,2021,0.021012876,0.040521663,0.006570065
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,1990,0.889682856,1.398717445,0.374562153
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,1991,0.879978101,1.413412837,0.362117664
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,1992,0.884336303,1.423230745,0.380083431
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,1993,0.891736985,1.42457738,0.382002078
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,1994,0.900726682,1.388491387,0.368310347
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,1995,0.911514538,1.417469557,0.393620225
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,1996,0.921848581,1.437333998,0.403960307
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,1997,0.928412346,1.447338198,0.404874771
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,1998,0.954004567,1.475769501,0.42274273
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,1999,0.980623037,1.531531567,0.436740884
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2000,1.015352459,1.612338964,0.438894393
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2001,1.040641168,1.604799595,0.472213579
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2002,1.053422074,1.64387279,0.470227625
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2003,1.094642352,1.694810932,0.493419416
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2004,1.123733518,1.731474701,0.486371379
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2005,1.106777839,1.731495216,0.484259907
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2006,1.024198991,1.570403832,0.450471037
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2007,0.98621216,1.507283099,0.436452113
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2008,0.981572077,1.538768116,0.424347341
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2009,0.98787109,1.543985191,0.44023145
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2010,0.991789775,1.548132425,0.412193665
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2011,0.977637817,1.504495202,0.413561827
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2012,0.949979127,1.494078002,0.393739403
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2013,0.943529483,1.463757952,0.411568688
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2014,0.941019444,1.464716354,0.393271221
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2015,0.93117751,1.453668821,0.399901849
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2016,0.931556088,1.485079409,0.409442074
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2017,0.928511872,1.485683638,0.394769716
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2018,0.916719332,1.450162074,0.381522205
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2019,0.906821317,1.450794079,0.402429218
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2020,0.903768789,1.446286345,0.389050392
+Deaths,China,Both,Age-standardized,Diabetes mellitus,Low physical activity,Rate,2021,0.896080222,1.46785859,0.398463649
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,1990,0.547167783,0.968248348,0.225301825
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,1991,0.54713486,0.9514034,0.21660613
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,1992,0.545422509,0.965038762,0.208470754
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,1993,0.539972055,0.930846233,0.213564671
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,1994,0.536883974,0.953346057,0.212082905
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,1995,0.531283069,0.930730618,0.207764801
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,1996,0.519250402,0.914200524,0.206512535
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,1997,0.500980206,0.880679713,0.197749381
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,1998,0.482730629,0.846681361,0.192382766
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,1999,0.469331329,0.81725239,0.183539681
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2000,0.471983573,0.825815873,0.189277645
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2001,0.480770585,0.839625464,0.189104166
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2002,0.487711652,0.858209075,0.195602433
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2003,0.510458775,0.879604033,0.197858599
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2004,0.52824619,0.914731347,0.211970086
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2005,0.523704298,0.917939536,0.204075203
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2006,0.488955584,0.854595625,0.192664844
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2007,0.478443737,0.848552048,0.187258162
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2008,0.482587745,0.816876108,0.195549369
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2009,0.488657758,0.823718151,0.19566204
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2010,0.495371567,0.848904586,0.196913918
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2011,0.48750414,0.840388448,0.196143406
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2012,0.470728149,0.808593404,0.18813684
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2013,0.466440801,0.806125006,0.18884002
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2014,0.458016998,0.799050199,0.1873833
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2015,0.449605594,0.783225672,0.178459231
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2016,0.447650454,0.784909958,0.170253651
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2017,0.449689671,0.801050054,0.166776427
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2018,0.450524246,0.792064507,0.179826257
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2019,0.450814565,0.793999303,0.176018543
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2020,0.450525554,0.793520914,0.179283556
+Deaths,China,Both,Age-standardized,Chronic kidney disease,Low physical activity,Rate,2021,0.47836956,0.832406106,0.186131137
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,1990,0.931592346,1.356826713,0.5472515
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,1991,0.925327259,1.362502914,0.55088002
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,1992,0.922937568,1.339095972,0.559290539
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,1993,0.918896094,1.317743344,0.543749352
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,1994,0.913433226,1.303659162,0.544494799
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,1995,0.910889981,1.307243416,0.540393062
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,1996,0.901391066,1.287155215,0.555646422
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,1997,0.889393246,1.276011697,0.540700621
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,1998,0.885753357,1.267495462,0.548223745
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,1999,0.885354653,1.257866938,0.547847994
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2000,0.894068405,1.289840312,0.557531211
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2001,0.896833667,1.263370018,0.536581204
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2002,0.883764727,1.248670924,0.537427746
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2003,0.895189027,1.279601325,0.54903469
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2004,0.907765221,1.285440435,0.544585443
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2005,0.9005152,1.27737764,0.530566907
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2006,0.853067489,1.200306932,0.523461493
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2007,0.838116246,1.171451872,0.506994712
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2008,0.841977865,1.167252223,0.511986848
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2009,0.849210055,1.185420428,0.504538967
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2010,0.85819872,1.208716517,0.508220512
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2011,0.861275937,1.214026687,0.508723442
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2012,0.844429255,1.183945987,0.501556886
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2013,0.829441949,1.171273462,0.489617273
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2014,0.819480226,1.151795701,0.487289744
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2015,0.823167772,1.156787491,0.506008677
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2016,0.835439578,1.201572692,0.516773876
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2017,0.838996726,1.201104229,0.517631934
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2018,0.847803741,1.212774117,0.501467151
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2019,0.862534511,1.246117452,0.532280526
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2020,0.869446012,1.26885142,0.51412361
+Deaths,China,Both,Age-standardized,Colon and rectum cancer,Low physical activity,Rate,2021,0.869591316,1.288235186,0.526101959
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,1990,2.863260708,5.374484311,1.115400628
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,1991,2.828393982,5.129405987,1.151419592
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,1992,2.808084588,5.141190858,1.103853029
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,1993,2.80837953,5.021643536,1.106995871
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,1994,2.803584863,4.846425608,1.128031192
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,1995,2.804145012,4.919829836,1.109964988
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,1996,2.804600301,5.007817413,1.109115053
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,1997,2.813160914,4.903025935,1.099233304
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,1998,2.873915906,4.965573738,1.169929344
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,1999,2.95735504,5.117374787,1.198098416
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2000,3.127409515,5.387704103,1.231095475
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2001,3.287246204,5.650907935,1.304317827
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2002,3.439828024,5.922647542,1.333748167
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2003,3.794014514,6.441521967,1.463227671
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2004,3.974311459,6.593673002,1.506204734
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2005,4.021482184,6.968690435,1.534547026
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2006,3.763877543,6.374445769,1.444987627
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2007,3.693597084,6.274325913,1.418248818
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2008,3.766900192,6.643648935,1.44376234
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2009,3.881312976,6.788443463,1.47155332
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2010,4.000259127,7.100054367,1.59251113
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2011,4.051631806,7.051235801,1.564972658
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2012,3.882121445,6.897060235,1.477050187
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2013,3.905996014,6.964347877,1.508873933
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2014,3.838973478,6.719622854,1.50729719
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2015,3.700434951,6.621436268,1.450222207
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2016,3.638451836,6.600555163,1.463434025
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2017,3.621141593,6.543285733,1.417808292
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2018,3.589811917,6.515947923,1.423989239
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2019,3.561995596,6.704524249,1.444941258
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2020,3.550020956,6.528144693,1.371263644
+Deaths,China,Both,Age-standardized,Ischemic heart disease,Low physical activity,Rate,2021,3.521785367,6.579285217,1.429824727
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,1990,2.877890695,6.94736301,-0.9017891
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,1991,2.841550885,6.942042511,-0.896258003
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,1992,2.826103824,7.00576754,-0.896129727
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,1993,2.824168253,7.11426317,-0.908893284
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,1994,2.805697542,6.852558163,-0.980910919
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,1995,2.794597682,6.980921352,-1.051797475
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,1996,2.772165799,6.810661793,-1.058593457
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,1997,2.737678372,6.726615298,-1.096704142
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,1998,2.75332318,6.863272512,-1.075558431
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,1999,2.78502999,7.016559854,-1.103178748
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2000,2.883030017,7.409483144,-1.146161958
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2001,2.940975087,7.421328197,-1.228590406
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2002,2.950206928,7.577121443,-1.211679003
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2003,3.059550304,7.918349747,-1.403206703
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2004,3.112738802,8.057265693,-1.420830155
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2005,3.047562345,7.971477281,-1.507447404
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2006,2.794218901,7.006828052,-1.394260067
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2007,2.683166487,7.0712882,-1.391117164
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2008,2.664863096,6.855422538,-1.449999737
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2009,2.67791644,6.878494549,-1.482399948
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2010,2.678901331,7.0004023,-1.528468174
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2011,2.637702352,6.896985266,-1.359473643
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2012,2.558476818,6.742762842,-1.169236486
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2013,2.511852412,6.466643459,-1.247064246
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2014,2.455465197,6.476284911,-1.216150069
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2015,2.399901246,6.21621232,-1.149228885
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2016,2.387027963,6.286099389,-1.106191022
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2017,2.3702603,6.216148445,-1.124261855
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2018,2.33357246,5.962609467,-1.046624523
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2019,2.323603753,6.148165698,-1.01698758
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2020,2.310078399,6.256923516,-1.137301066
+Deaths,China,Both,Age-standardized,Stroke,Low physical activity,Rate,2021,2.294290347,6.20057859,-1.036614402
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,1990,0.003154578,0.006224353,0.000902637
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,1991,0.003222274,0.006437128,0.000910129
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,1992,0.003259815,0.006570165,0.000936082
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,1993,0.003301992,0.006534423,0.000920773
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,1994,0.003312606,0.006503827,0.00090691
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,1995,0.003358903,0.006601866,0.000939872
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,1996,0.003342888,0.00646305,0.000924054
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,1997,0.003263813,0.006397446,0.000933301
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,1998,0.00316095,0.006210532,0.000897583
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,1999,0.003085271,0.006047631,0.000856987
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2000,0.003115266,0.006396194,0.000858502
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2001,0.003249352,0.006577076,0.000918031
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2002,0.003329698,0.006605686,0.000905151
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2003,0.003562013,0.007074471,0.001030463
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2004,0.003781155,0.007563996,0.001105059
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2005,0.003769283,0.007524745,0.001062661
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2006,0.003713344,0.007470818,0.001067575
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2007,0.003603522,0.007139381,0.001046711
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2008,0.003733201,0.00738927,0.001084295
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2009,0.003891739,0.007799987,0.001133139
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2010,0.003982382,0.008104217,0.001128734
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2011,0.003893089,0.007847529,0.001120358
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2012,0.003738473,0.007436107,0.001066639
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2013,0.003668736,0.007383214,0.000977894
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2014,0.003573213,0.007021031,0.001004673
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2015,0.003487178,0.007059308,0.001022944
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2016,0.003499729,0.007240631,0.000982812
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2017,0.003569572,0.007222829,0.001038071
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2018,0.003630352,0.007445761,0.001057786
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2019,0.003714678,0.007413374,0.001109803
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2020,0.003770454,0.007962471,0.001078108
+Deaths,China,Both,Age-standardized,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.004138419,0.008358582,0.001173358
