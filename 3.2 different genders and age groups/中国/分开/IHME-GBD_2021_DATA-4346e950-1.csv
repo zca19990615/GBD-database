@@ -1,0 +1,439 @@
+measure,location,sex,age,cause,rei,metric,year,val,upper,lower
+Deaths,China,Male,95+ years,Tuberculosis,Low physical activity,Rate,2021,0.21428744049,0.52032829973,0.05382062662
+Deaths,China,Female,95+ years,Tuberculosis,Low physical activity,Rate,2021,0.26072255113000004,0.5892545743800001,0.07224110711
+Deaths,China,Male,80-84 years,Ischemic heart disease,Low physical activity,Rate,2021,58.1783923392,134.41196468243,13.269442220380002
+Deaths,China,Female,80-84 years,Ischemic heart disease,Low physical activity,Rate,2021,81.35941354473,173.88086860081,24.941392373279996
+Deaths,China,Male,85-89 years,Ischemic heart disease,Low physical activity,Rate,2021,148.30552474952,344.30520215725,33.4267547998
+Deaths,China,Female,85-89 years,Ischemic heart disease,Low physical activity,Rate,2021,146.24907685709,321.08739436195003,43.2383938491
+Deaths,China,Male,90-94 years,Ischemic heart disease,Low physical activity,Rate,2021,287.14294119018,655.46787805779,65.71220538762
+Deaths,China,Female,90-94 years,Ischemic heart disease,Low physical activity,Rate,2021,272.87122042436,589.0506428822,81.6620389235
+Deaths,China,Male,95+ years,Ischemic heart disease,Low physical activity,Rate,2021,308.84109477296,741.7929760964299,67.74570146437999
+Deaths,China,Female,95+ years,Ischemic heart disease,Low physical activity,Rate,2021,431.9801235688,952.3149292172701,126.52420981471
+Deaths,China,Male,25-29 years,Colon and rectum cancer,Low physical activity,Rate,2021,0.01454243492,0.05486129136,0.00078634972
+Deaths,China,Female,25-29 years,Colon and rectum cancer,Low physical activity,Rate,2021,0.0160686903,0.044267126840000004,0.0028422856
+Deaths,China,Male,30-34 years,Colon and rectum cancer,Low physical activity,Rate,2021,0.03338149252,0.12049999255999999,0.00224825843
+Deaths,China,Female,30-34 years,Colon and rectum cancer,Low physical activity,Rate,2021,0.03135887586,0.08667872987,0.0046640436
+Deaths,China,Male,35-39 years,Colon and rectum cancer,Low physical activity,Rate,2021,0.04690412805,0.16677311886,0.00169388943
+Deaths,China,Female,35-39 years,Colon and rectum cancer,Low physical activity,Rate,2021,0.04876165683,0.13448021182,0.007518029810000001
+Deaths,China,Male,40-44 years,Colon and rectum cancer,Low physical activity,Rate,2021,0.07750811005,0.28085294397,0.00535306485
+Deaths,China,Female,40-44 years,Colon and rectum cancer,Low physical activity,Rate,2021,0.09403799510000001,0.26228843467,0.01790393718
+Deaths,China,Male,45-49 years,Colon and rectum cancer,Low physical activity,Rate,2021,0.14865698191,0.51240355123,0.01240009753
+Deaths,China,Female,45-49 years,Colon and rectum cancer,Low physical activity,Rate,2021,0.14473859149999999,0.37095570838999997,0.03473734198
+Deaths,China,Male,50-54 years,Colon and rectum cancer,Low physical activity,Rate,2021,0.29377669719,0.8812816938,0.02919911643
+Deaths,China,Female,50-54 years,Colon and rectum cancer,Low physical activity,Rate,2021,0.31110915376,0.72813059133,0.08063376648000001
+Deaths,China,Male,55-59 years,Colon and rectum cancer,Low physical activity,Rate,2021,0.62708498692,1.9436276208399998,0.09169493105
+Deaths,China,Female,55-59 years,Colon and rectum cancer,Low physical activity,Rate,2021,0.66860537822,1.4597132268800002,0.19868896388
+Deaths,China,Male,60-64 years,Colon and rectum cancer,Low physical activity,Rate,2021,1.30686185927,3.3208115876899997,0.17480888185000001
+Deaths,China,Female,60-64 years,Colon and rectum cancer,Low physical activity,Rate,2021,1.33067257304,2.6434734574500003,0.38397028092999996
+Deaths,China,Male,65-69 years,Colon and rectum cancer,Low physical activity,Rate,2021,2.5559892846500003,5.765960504290001,0.62993141999
+Deaths,China,Female,65-69 years,Colon and rectum cancer,Low physical activity,Rate,2021,2.43739987347,4.69872615282,0.8614453981300001
+Deaths,China,Male,95+ years,Chronic kidney disease,Low physical activity,Rate,2021,46.12382927835,88.41374863623001,16.12032983843
+Deaths,China,Female,95+ years,Chronic kidney disease,Low physical activity,Rate,2021,31.823448488380002,59.00984171863,11.89302604343
+Deaths,China,Male,25-29 years,Stroke,Low physical activity,Rate,2021,0.0229142367,0.05945583745,0.0029021840599999997
+Deaths,China,Female,25-29 years,Stroke,Low physical activity,Rate,2021,0.021183007179999998,0.04666596628,0.0061708616
+Deaths,China,Male,30-34 years,Stroke,Low physical activity,Rate,2021,0.05397591706,0.13843674105,0.006535884
+Deaths,China,Female,30-34 years,Stroke,Low physical activity,Rate,2021,0.03895964165,0.08200706661,0.00974798445
+Deaths,China,Male,35-39 years,Stroke,Low physical activity,Rate,2021,0.09531816956,0.25275093641,0.00846853324
+Deaths,China,Female,35-39 years,Stroke,Low physical activity,Rate,2021,0.0814571678,0.17900043181,0.019567492529999998
+Deaths,China,Male,40-44 years,Stroke,Low physical activity,Rate,2021,0.22040284239,0.62127386009,0.0309526751
+Deaths,China,Female,40-44 years,Stroke,Low physical activity,Rate,2021,0.18181736434999998,0.39748928667,0.050178211589999994
+Deaths,China,Male,45-49 years,Stroke,Low physical activity,Rate,2021,0.43222315465,1.10215206054,0.07000039413
+Deaths,China,Female,45-49 years,Stroke,Low physical activity,Rate,2021,0.32246799602000004,0.6760723212299999,0.08626079309
+Deaths,China,Male,50-54 years,Stroke,Low physical activity,Rate,2021,0.9913628318600001,2.38105773169,0.20486833423
+Deaths,China,Female,50-54 years,Stroke,Low physical activity,Rate,2021,0.75778390006,1.58091006453,0.24681313025
+Deaths,China,Male,55-59 years,Stroke,Low physical activity,Rate,2021,2.0079834072700002,5.02965572957,0.38213371739999996
+Deaths,China,Female,55-59 years,Stroke,Low physical activity,Rate,2021,1.73181738331,3.51646588313,0.5522507118200001
+Deaths,China,Male,60-64 years,Stroke,Low physical activity,Rate,2021,4.87850806579,11.00615215345,0.9699427101600001
+Deaths,China,Female,60-64 years,Stroke,Low physical activity,Rate,2021,4.0336290001399995,7.57584453515,1.2416751247
+Deaths,China,Male,65-69 years,Stroke,Low physical activity,Rate,2021,9.43892953408,20.11121198996,2.7446555517499998
+Deaths,China,Female,65-69 years,Stroke,Low physical activity,Rate,2021,7.97859695937,15.473527753960001,2.6402803603700002
+Deaths,China,Male,70-74 years,Stroke,Low physical activity,Rate,2021,19.3574824185,42.14475361359,5.00820688017
+Deaths,China,Female,70-74 years,Stroke,Low physical activity,Rate,2021,17.264681670690003,33.87723670863,4.83184837455
+Deaths,China,Male,75-79 years,Stroke,Low physical activity,Rate,2021,28.672664525459997,70.78519834564999,1.1699114452200001
+Deaths,China,Female,75-79 years,Stroke,Low physical activity,Rate,2021,25.14946235516,58.76416780045,1.2486032357499999
+Deaths,China,Male,80-84 years,Stroke,Low physical activity,Rate,2021,30.35474957577,139.36643547599002,-68.88932063523
+Deaths,China,Female,80-84 years,Stroke,Low physical activity,Rate,2021,26.13271953148,115.04273876113,-60.3717546109
+Deaths,China,Male,85-89 years,Stroke,Low physical activity,Rate,2021,69.27844839724,314.55362880183003,-162.50562411453
+Deaths,China,Female,85-89 years,Stroke,Low physical activity,Rate,2021,41.09208060554,183.86343071316,-95.59956299085
+Deaths,China,Male,90-94 years,Stroke,Low physical activity,Rate,2021,104.254287206,472.2604851516,-236.78598009518
+Deaths,China,Female,90-94 years,Stroke,Low physical activity,Rate,2021,60.24152759353,266.8303346054,-138.44377864175
+Deaths,China,Male,40-44 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.00040107984,0.0012672561999999999,5.004521e-05
+Deaths,China,Female,40-44 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.00037163778,0.00098505301,7.051631000000001e-05
+Deaths,China,Male,45-49 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.00064726534,0.0018254762899999998,0.00011040572
+Deaths,China,Female,45-49 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.00048747528999999994,0.00114619045,8.902071e-05
+Deaths,China,Male,50-54 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.00118715448,0.00308651544,0.00018059407
+Deaths,China,Female,50-54 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.00079477058,0.00184668301,0.00019843137
+Deaths,China,Male,55-59 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.00205271082,0.00529596971,0.0003285944
+Deaths,China,Female,55-59 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.00172533898,0.00416909968,0.00039662853999999995
+Deaths,China,Male,60-64 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.00392257901,0.01046531658,0.0006852150099999999
+Deaths,China,Female,60-64 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.00276675495,0.006139092390000001,0.0006830531100000001
+Deaths,China,Male,65-69 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.00909439802,0.023087462569999998,0.0019688028
+Deaths,China,Female,65-69 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.00487522218,0.01118054754,0.00124430777
+Deaths,China,Male,70-74 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.02097123758,0.05279027008,0.005009907490000001
+Deaths,China,Female,70-74 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.01391687526,0.03205302678,0.0034377803600000004
+Deaths,China,Male,75-79 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.04081855852,0.10143139902000001,0.00871155805
+Deaths,China,Female,75-79 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.0260101782,0.06244775557,0.0066458763700000005
+Deaths,China,Male,80-84 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.08539085371999999,0.20802145308000003,0.020912720779999998
+Deaths,China,Female,80-84 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.06000550351,0.13928578877,0.01470898175
+Deaths,China,Male,85-89 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.20856749199,0.45308960255999997,0.050631901410000006
+Deaths,China,Female,85-89 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.11276337932000001,0.25745603041000004,0.027528100979999998
+Deaths,China,Male,90-94 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.41803755588999997,0.94014561688,0.10285102416
+Deaths,China,Female,90-94 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.23681515216,0.53477291933,0.05205935875
+Deaths,China,Male,95+ years,Diabetes mellitus,Low physical activity,Rate,2021,38.067458444699994,69.61686677369,13.257051750619999
+Deaths,China,Female,95+ years,Diabetes mellitus,Low physical activity,Rate,2021,30.59227455505,54.715994425880005,11.8584347938
+Deaths,China,Male,25-29 years,Ischemic heart disease,Low physical activity,Rate,2021,0.01767482436,0.059838606190000004,0.00193506767
+Deaths,China,Female,25-29 years,Ischemic heart disease,Low physical activity,Rate,2021,0.016684781870000002,0.04881866217,0.00279072032
+Deaths,China,Male,30-34 years,Ischemic heart disease,Low physical activity,Rate,2021,0.034398393209999996,0.11334699713999999,0.00430598611
+Deaths,China,Female,30-34 years,Ischemic heart disease,Low physical activity,Rate,2021,0.03020215578,0.09173987548,0.0043866096
+Deaths,China,Male,35-39 years,Ischemic heart disease,Low physical activity,Rate,2021,0.05357807204000001,0.18923954998,0.00461058962
+Deaths,China,Female,35-39 years,Ischemic heart disease,Low physical activity,Rate,2021,0.04842789903999999,0.15038327249,0.00679040341
+Deaths,China,Male,40-44 years,Ischemic heart disease,Low physical activity,Rate,2021,0.10119445308,0.35470713426,0.01257320399
+Deaths,China,Female,40-44 years,Ischemic heart disease,Low physical activity,Rate,2021,0.10545934841,0.32092593011,0.01937875438
+Deaths,China,Female,25-29 years,Breast cancer,Low physical activity,Rate,2021,0.0103695152,0.02561210126,0.00091750595
+Deaths,China,Female,30-34 years,Breast cancer,Low physical activity,Rate,2021,0.03297224302,0.08783915163,0.00324014719
+Deaths,China,Female,35-39 years,Breast cancer,Low physical activity,Rate,2021,0.06446240593,0.17505790251,0.00783794229
+Deaths,China,Female,40-44 years,Breast cancer,Low physical activity,Rate,2021,0.12198347909,0.3039741905,0.01650382689
+Deaths,China,Female,45-49 years,Breast cancer,Low physical activity,Rate,2021,0.17336713987,0.42744831075,0.01817867658
+Deaths,China,Female,50-54 years,Breast cancer,Low physical activity,Rate,2021,0.30038548468,0.7234055158,0.0499149319
+Deaths,China,Female,55-59 years,Breast cancer,Low physical activity,Rate,2021,0.45619700662999996,1.0517316894,0.07121491493
+Deaths,China,Female,60-64 years,Breast cancer,Low physical activity,Rate,2021,0.59488476225,1.23006751556,0.08149446637
+Deaths,China,Female,65-69 years,Breast cancer,Low physical activity,Rate,2021,0.69922255697,1.47696956425,0.12933786105
+Deaths,China,Female,70-74 years,Breast cancer,Low physical activity,Rate,2021,0.8945961194300001,1.75886949256,0.16313657602
+Deaths,China,Female,75-79 years,Breast cancer,Low physical activity,Rate,2021,1.12821474599,2.38588054063,0.18952533105
+Deaths,China,Female,80-84 years,Breast cancer,Low physical activity,Rate,2021,1.53874713282,3.10446526107,0.32935498578
+Deaths,China,Female,85-89 years,Breast cancer,Low physical activity,Rate,2021,1.9377182420999999,3.88919068459,0.40332931945999995
+Deaths,China,Female,90-94 years,Breast cancer,Low physical activity,Rate,2021,2.49403973318,5.00227257135,0.53465343405
+Deaths,China,Female,95+ years,Breast cancer,Low physical activity,Rate,2021,3.1414980532800003,6.36421010169,0.69882950293
+Deaths,China,Male,70-74 years,Colon and rectum cancer,Low physical activity,Rate,2021,5.313234033420001,11.94349472078,1.5318682749199999
+Deaths,China,Female,70-74 years,Colon and rectum cancer,Low physical activity,Rate,2021,5.11898460127,9.243130489670001,1.89910932253
+Deaths,China,Male,75-79 years,Colon and rectum cancer,Low physical activity,Rate,2021,9.77567526097,20.19744489908,3.23907048521
+Deaths,China,Female,75-79 years,Colon and rectum cancer,Low physical activity,Rate,2021,8.59683675426,16.083491226670002,3.59376852337
+Deaths,China,Male,80-84 years,Colon and rectum cancer,Low physical activity,Rate,2021,18.88886316413,34.11367661552,7.24455448044
+Deaths,China,Female,80-84 years,Colon and rectum cancer,Low physical activity,Rate,2021,15.10448878933,25.28995869351,7.495292983090001
+Deaths,China,Male,85-89 years,Colon and rectum cancer,Low physical activity,Rate,2021,32.80380654688,59.019497392030004,12.2125043514
+Deaths,China,Female,85-89 years,Colon and rectum cancer,Low physical activity,Rate,2021,18.74596112108,31.145820669040003,8.74202951602
+Deaths,China,Male,90-94 years,Colon and rectum cancer,Low physical activity,Rate,2021,42.66993912316,79.18462136392,15.61231517247
+Deaths,China,Female,90-94 years,Colon and rectum cancer,Low physical activity,Rate,2021,22.48861598909,37.18115831676,10.447001087539999
+Deaths,China,Male,95+ years,Colon and rectum cancer,Low physical activity,Rate,2021,33.892480940540004,62.17786112804,12.628991663439999
+Deaths,China,Female,95+ years,Colon and rectum cancer,Low physical activity,Rate,2021,25.94661870268,43.98064210594,11.56335678884
+Deaths,China,Male,95+ years,Stroke,Low physical activity,Rate,2021,84.19200427915,382.21174186155,-191.84625409831
+Deaths,China,Female,95+ years,Stroke,Low physical activity,Rate,2021,79.63828830823999,360.15627367948997,-177.38529505920002
+Deaths,China,Male,45-49 years,Ischemic heart disease,Low physical activity,Rate,2021,0.16598294294,0.56311154244,0.0222393625
+Deaths,China,Female,45-49 years,Ischemic heart disease,Low physical activity,Rate,2021,0.17345206877,0.5279065202,0.02800083476
+Deaths,China,Male,50-54 years,Ischemic heart disease,Low physical activity,Rate,2021,0.32888472677,1.03539088135,0.04498436879
+Deaths,China,Female,50-54 years,Ischemic heart disease,Low physical activity,Rate,2021,0.37656199651,1.0168489559,0.07502138125999999
+Deaths,China,Male,55-59 years,Ischemic heart disease,Low physical activity,Rate,2021,0.6553497594000001,2.4652003569,0.08431294728
+Deaths,China,Female,55-59 years,Ischemic heart disease,Low physical activity,Rate,2021,0.93288090126,2.43654780525,0.18475577509
+Deaths,China,Male,60-64 years,Ischemic heart disease,Low physical activity,Rate,2021,1.44361363028,4.43876155784,0.14382724162000002
+Deaths,China,Female,60-64 years,Ischemic heart disease,Low physical activity,Rate,2021,2.18225081057,5.19270990246,0.43796389009000003
+Deaths,China,Male,65-69 years,Ischemic heart disease,Low physical activity,Rate,2021,3.1939827855200003,8.8077597872,0.57943982433
+Deaths,China,Female,65-69 years,Ischemic heart disease,Low physical activity,Rate,2021,4.79735440914,11.41757467949,1.22159765781
+Deaths,China,Male,70-74 years,Ischemic heart disease,Low physical activity,Rate,2021,7.502978389430001,22.07217687103,1.27198557202
+Deaths,China,Female,70-74 years,Ischemic heart disease,Low physical activity,Rate,2021,12.521361952889999,26.768399444520004,3.00296752197
+Deaths,China,Male,75-79 years,Ischemic heart disease,Low physical activity,Rate,2021,16.84522443353,46.56945981547,3.2577943930999997
+Deaths,China,Female,75-79 years,Ischemic heart disease,Low physical activity,Rate,2021,27.44642636783,63.06834050934,7.514449964250001
+Deaths,China,Male,25-29 years,Chronic kidney disease,Low physical activity,Rate,2021,0.0032315191699999997,0.01295753244,0.00018530159
+Deaths,China,Female,25-29 years,Chronic kidney disease,Low physical activity,Rate,2021,0.00240422273,0.0089927904,0.00032028199999999997
+Deaths,China,Male,30-34 years,Chronic kidney disease,Low physical activity,Rate,2021,0.008705279120000001,0.029108399400000002,0.00101270263
+Deaths,China,Female,30-34 years,Chronic kidney disease,Low physical activity,Rate,2021,0.006223308090000001,0.01829504724,0.0010818356799999998
+Deaths,China,Male,35-39 years,Chronic kidney disease,Low physical activity,Rate,2021,0.02005610896,0.06168699926,0.00190943183
+Deaths,China,Female,35-39 years,Chronic kidney disease,Low physical activity,Rate,2021,0.01608980165,0.04388001849,0.0031154535499999998
+Deaths,China,Male,40-44 years,Chronic kidney disease,Low physical activity,Rate,2021,0.03969832076,0.11450388292,0.00438276947
+Deaths,China,Female,40-44 years,Chronic kidney disease,Low physical activity,Rate,2021,0.03760130336,0.10650012566000001,0.00841942274
+Deaths,China,Male,45-49 years,Chronic kidney disease,Low physical activity,Rate,2021,0.06833105759000001,0.18253976847,0.01039254678
+Deaths,China,Female,45-49 years,Chronic kidney disease,Low physical activity,Rate,2021,0.0666711033,0.16247906334,0.014790190249999998
+Deaths,China,Male,50-54 years,Chronic kidney disease,Low physical activity,Rate,2021,0.13975231055,0.34892313059999996,0.025820487500000003
+Deaths,China,Female,50-54 years,Chronic kidney disease,Low physical activity,Rate,2021,0.14880617617,0.34889626991,0.039510110609999996
+Deaths,China,Male,55-59 years,Chronic kidney disease,Low physical activity,Rate,2021,0.28812815351000004,0.74422300735,0.05726188244
+Deaths,China,Female,55-59 years,Chronic kidney disease,Low physical activity,Rate,2021,0.33030542286000003,0.70321858872,0.09360801669999999
+Deaths,China,Male,60-64 years,Chronic kidney disease,Low physical activity,Rate,2021,0.54179144694,1.29517212915,0.10127731975000001
+Deaths,China,Female,60-64 years,Chronic kidney disease,Low physical activity,Rate,2021,0.6772859835,1.45610043833,0.21343111357000003
+Deaths,China,Male,65-69 years,Chronic kidney disease,Low physical activity,Rate,2021,1.0629178293500001,2.34581880888,0.29307199748
+Deaths,China,Female,65-69 years,Chronic kidney disease,Low physical activity,Rate,2021,1.31023509433,2.54287643068,0.41863527586000004
+Deaths,China,Male,70-74 years,Chronic kidney disease,Low physical activity,Rate,2021,2.3570991914399997,5.1078866729,0.67497515175
+Deaths,China,Female,70-74 years,Chronic kidney disease,Low physical activity,Rate,2021,2.59992218531,4.9280342174,0.84231912834
+Deaths,China,Male,75-79 years,Chronic kidney disease,Low physical activity,Rate,2021,4.48352083442,9.41478850924,1.31794374161
+Deaths,China,Female,75-79 years,Chronic kidney disease,Low physical activity,Rate,2021,4.32779910147,8.39179108642,1.47013511933
+Deaths,China,Male,95+ years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.31329982833000003,0.7401537953399999,0.08328180716
+Deaths,China,Female,95+ years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.43061131133,0.96133341108,0.10026905046000001
+Deaths,China,Male,25-29 years,Tuberculosis,Low physical activity,Rate,2021,0.00221972074,0.00723456985,0.00019331349
+Deaths,China,Female,25-29 years,Tuberculosis,Low physical activity,Rate,2021,0.0012287360800000001,0.00396610378,0.00019284441
+Deaths,China,Male,30-34 years,Tuberculosis,Low physical activity,Rate,2021,0.0037391487199999996,0.012644633819999999,0.00036268403
+Deaths,China,Female,30-34 years,Tuberculosis,Low physical activity,Rate,2021,0.00157682927,0.00442191293,0.00022600309
+Deaths,China,Male,35-39 years,Tuberculosis,Low physical activity,Rate,2021,0.00474692899,0.01493471852,0.00031842809
+Deaths,China,Female,35-39 years,Tuberculosis,Low physical activity,Rate,2021,0.00198972182,0.0060553447499999994,0.00028874045
+Deaths,China,Male,40-44 years,Tuberculosis,Low physical activity,Rate,2021,0.00805505808,0.023532585590000002,0.00093003528
+Deaths,China,Female,40-44 years,Tuberculosis,Low physical activity,Rate,2021,0.0034608469499999997,0.00905448073,0.00060574573
+Deaths,China,Male,45-49 years,Tuberculosis,Low physical activity,Rate,2021,0.015071792569999999,0.04554993048,0.00210488204
+Deaths,China,Female,45-49 years,Tuberculosis,Low physical activity,Rate,2021,0.0051899282,0.01361334142,0.0008844512899999999
+Deaths,China,Male,50-54 years,Tuberculosis,Low physical activity,Rate,2021,0.02446075736,0.07160475341,0.00351014864
+Deaths,China,Female,50-54 years,Tuberculosis,Low physical activity,Rate,2021,0.00994452758,0.027605089569999998,0.00201674123
+Deaths,China,Male,55-59 years,Tuberculosis,Low physical activity,Rate,2021,0.03246987407,0.09417359029,0.00519061619
+Deaths,China,Female,55-59 years,Tuberculosis,Low physical activity,Rate,2021,0.014080765759999999,0.03618423351,0.00263325547
+Deaths,China,Male,60-64 years,Tuberculosis,Low physical activity,Rate,2021,0.06418884243999999,0.16968962491,0.01124325225
+Deaths,China,Female,60-64 years,Tuberculosis,Low physical activity,Rate,2021,0.029976205829999998,0.0696133196,0.00636126994
+Deaths,China,Male,65-69 years,Tuberculosis,Low physical activity,Rate,2021,0.10753137046000001,0.26892121523,0.025682150419999997
+Deaths,China,Female,65-69 years,Tuberculosis,Low physical activity,Rate,2021,0.05091269107,0.12203400188,0.012195633550000001
+Deaths,China,Male,70-74 years,Tuberculosis,Low physical activity,Rate,2021,0.19059083889,0.48833183299,0.0398140353
+Deaths,China,Female,70-74 years,Tuberculosis,Low physical activity,Rate,2021,0.08812286218000001,0.19869692712,0.02275559031
+Deaths,China,Male,75-79 years,Tuberculosis,Low physical activity,Rate,2021,0.32028555277,0.72840833374,0.07876377177999999
+Deaths,China,Female,75-79 years,Tuberculosis,Low physical activity,Rate,2021,0.12498662438000001,0.27577736237,0.03371804541
+Deaths,China,Male,80-84 years,Tuberculosis,Low physical activity,Rate,2021,0.5453322764699999,1.2664715500500001,0.1349893626
+Deaths,China,Female,80-84 years,Tuberculosis,Low physical activity,Rate,2021,0.18793822045,0.42158820557000004,0.04835486737
+Deaths,China,Male,80-84 years,Chronic kidney disease,Low physical activity,Rate,2021,8.38263427713,16.62469198865,2.69696489232
+Deaths,China,Female,80-84 years,Chronic kidney disease,Low physical activity,Rate,2021,7.001254993550001,13.52888776238,2.34906369883
+Deaths,China,Male,85-89 years,Chronic kidney disease,Low physical activity,Rate,2021,21.078828564240002,39.95726512788,7.1499760551
+Deaths,China,Female,85-89 years,Chronic kidney disease,Low physical activity,Rate,2021,11.00215713675,21.943177705100002,3.78127293611
+Deaths,China,Male,90-94 years,Chronic kidney disease,Low physical activity,Rate,2021,46.2550950105,90.98275391571,17.691372824360002
+Deaths,China,Female,90-94 years,Chronic kidney disease,Low physical activity,Rate,2021,19.29667992568,37.67375533327,6.977742623639999
+Deaths,China,Male,25-29 years,Diabetes mellitus,Low physical activity,Rate,2021,0.0035840570699999996,0.01163499972,0.00027054411
+Deaths,China,Female,25-29 years,Diabetes mellitus,Low physical activity,Rate,2021,0.00491577928,0.01329328708,0.00089678303
+Deaths,China,Male,30-34 years,Diabetes mellitus,Low physical activity,Rate,2021,0.01063446806,0.03632306882,0.0007982221399999999
+Deaths,China,Female,30-34 years,Diabetes mellitus,Low physical activity,Rate,2021,0.00874850568,0.021570039909999998,0.0014748622800000001
+Deaths,China,Male,35-39 years,Diabetes mellitus,Low physical activity,Rate,2021,0.0162220652,0.05596832771,0.0008295436899999999
+Deaths,China,Female,35-39 years,Diabetes mellitus,Low physical activity,Rate,2021,0.014996792099999998,0.04027811928,0.00236925355
+Deaths,China,Male,40-44 years,Diabetes mellitus,Low physical activity,Rate,2021,0.03266123488,0.10628226688,0.00267401448
+Deaths,China,Female,40-44 years,Diabetes mellitus,Low physical activity,Rate,2021,0.03568186373,0.08616012389,0.00813212554
+Deaths,China,Male,45-49 years,Diabetes mellitus,Low physical activity,Rate,2021,0.08208174853,0.24964060571000002,0.00791740052
+Deaths,China,Female,45-49 years,Diabetes mellitus,Low physical activity,Rate,2021,0.09648613816000001,0.23066239225,0.01961544129
+Deaths,China,Male,50-54 years,Diabetes mellitus,Low physical activity,Rate,2021,0.18275854748,0.50757074431,0.0230160188
+Deaths,China,Female,50-54 years,Diabetes mellitus,Low physical activity,Rate,2021,0.24823277767000002,0.5591833463,0.06431972354
+Deaths,China,Male,55-59 years,Diabetes mellitus,Low physical activity,Rate,2021,0.38931867808,1.1521141231299998,0.05504952220999999
+Deaths,China,Female,55-59 years,Diabetes mellitus,Low physical activity,Rate,2021,0.64965054699,1.36342882767,0.15562268494
+Deaths,China,Male,60-64 years,Diabetes mellitus,Low physical activity,Rate,2021,0.8455260552599999,2.09542008167,0.11210438433
+Deaths,China,Female,60-64 years,Diabetes mellitus,Low physical activity,Rate,2021,1.58829037335,3.09281071269,0.40594798775999996
+Deaths,China,Male,65-69 years,Diabetes mellitus,Low physical activity,Rate,2021,1.84306435723,3.9902148150600003,0.4670555813
+Deaths,China,Female,65-69 years,Diabetes mellitus,Low physical activity,Rate,2021,3.32026432423,6.62489865242,1.02361916839
+Deaths,China,Male,70-74 years,Diabetes mellitus,Low physical activity,Rate,2021,4.12608473252,8.98255586918,1.0293785555700001
+Deaths,China,Female,70-74 years,Diabetes mellitus,Low physical activity,Rate,2021,7.006307002950001,13.166579676449999,2.35236930593
+Deaths,China,Male,75-79 years,Diabetes mellitus,Low physical activity,Rate,2021,7.91026482282,15.92564168325,2.48678247529
+Deaths,China,Female,75-79 years,Diabetes mellitus,Low physical activity,Rate,2021,11.7427647946,22.062293724619998,4.414475729309999
+Deaths,China,Male,85-89 years,Tuberculosis,Low physical activity,Rate,2021,0.63109749909,1.46142104951,0.16692772401
+Deaths,China,Female,85-89 years,Tuberculosis,Low physical activity,Rate,2021,0.2268707016,0.51701051645,0.05866459332000001
+Deaths,China,Male,90-94 years,Tuberculosis,Low physical activity,Rate,2021,0.4150053888,1.0312926308400001,0.10982516904999999
+Deaths,China,Female,90-94 years,Tuberculosis,Low physical activity,Rate,2021,0.2618169319,0.58567680592,0.06854618127
+Deaths,China,Male,80-84 years,Diabetes mellitus,Low physical activity,Rate,2021,15.77657097193,29.446988069390002,5.807286104479999
+Deaths,China,Female,80-84 years,Diabetes mellitus,Low physical activity,Rate,2021,17.87229577317,31.36269358697,7.185963428019999
+Deaths,China,Male,85-89 years,Diabetes mellitus,Low physical activity,Rate,2021,32.683798686820005,61.790422318180006,11.367799031659999
+Deaths,China,Female,85-89 years,Diabetes mellitus,Low physical activity,Rate,2021,22.04535566811,39.26506193575,8.31046724213
+Deaths,China,Male,90-94 years,Diabetes mellitus,Low physical activity,Rate,2021,45.73704870038,86.11099153645999,16.75727731528
+Deaths,China,Female,90-94 years,Diabetes mellitus,Low physical activity,Rate,2021,26.18468809149,45.97950040792,10.1212001837
+DALYs (Disability-Adjusted Life Years),China,Male,40-44 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.01927541876,0.060889390800000005,0.00240295174
+DALYs (Disability-Adjusted Life Years),China,Female,40-44 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.01806259739,0.04784318274,0.00342257044
+DALYs (Disability-Adjusted Life Years),China,Male,45-49 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.02844768742,0.08015198607,0.00491094627
+DALYs (Disability-Adjusted Life Years),China,Female,45-49 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.02310688818,0.054072809689999994,0.0045645435
+DALYs (Disability-Adjusted Life Years),China,Male,50-54 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.06686672984,0.16672150954,0.01036576176
+DALYs (Disability-Adjusted Life Years),China,Female,50-54 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.09840495341,0.24541338515000002,0.02190021462
+DALYs (Disability-Adjusted Life Years),China,Male,55-59 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.1687232366,0.45436396358,0.02763615258
+DALYs (Disability-Adjusted Life Years),China,Female,55-59 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.39593138846000003,0.96569739965,0.08172130546
+DALYs (Disability-Adjusted Life Years),China,Male,60-64 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.36223575283,0.99662913422,0.05902275722
+DALYs (Disability-Adjusted Life Years),China,Female,60-64 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.91919363765,2.33646722307,0.18767507255
+DALYs (Disability-Adjusted Life Years),China,Male,65-69 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,0.70420050283,1.92928875984,0.15082424216999998
+DALYs (Disability-Adjusted Life Years),China,Female,65-69 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,1.76511823051,4.69905148357,0.37631093758
+DALYs (Disability-Adjusted Life Years),China,Male,70-74 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,1.1735653875399998,3.0564190605499997,0.24150669969000002
+DALYs (Disability-Adjusted Life Years),China,Female,70-74 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,2.94205046005,7.301865418049999,0.5680257706399999
+DALYs (Disability-Adjusted Life Years),China,Male,75-79 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,1.6504240844799998,3.9343956061,0.31478920766
+DALYs (Disability-Adjusted Life Years),China,Female,75-79 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,4.1508906559600005,9.93533809291,0.8583999183800001
+DALYs (Disability-Adjusted Life Years),China,Male,90-94 years,Stroke,Low physical activity,Rate,2021,928.09859270259,4190.77933933439,-2119.73874337587
+DALYs (Disability-Adjusted Life Years),China,Female,90-94 years,Stroke,Low physical activity,Rate,2021,575.31532659392,2587.2227645069997,-1382.48304617651
+DALYs (Disability-Adjusted Life Years),China,Male,95+ years,Stroke,Low physical activity,Rate,2021,709.14381497425,3218.8532712485203,-1619.4805641205598
+DALYs (Disability-Adjusted Life Years),China,Female,95+ years,Stroke,Low physical activity,Rate,2021,702.92656932992,3216.7543717708304,-1597.4415621729702
+DALYs (Disability-Adjusted Life Years),China,Male,80-84 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,2.25438193774,5.37762626485,0.5297796997299999
+DALYs (Disability-Adjusted Life Years),China,Female,80-84 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,5.38579191055,13.44918533962,1.0403799681900001
+DALYs (Disability-Adjusted Life Years),China,Male,85-89 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,3.30662971025,7.261091506560001,0.87044248915
+DALYs (Disability-Adjusted Life Years),China,Female,85-89 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,5.54835228381,13.20483311715,1.31000774193
+DALYs (Disability-Adjusted Life Years),China,Male,90-94 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,5.20319206007,12.25588319217,1.2843488251100001
+DALYs (Disability-Adjusted Life Years),China,Female,90-94 years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,7.04451207966,15.778550333320002,1.6277205189000001
+DALYs (Disability-Adjusted Life Years),China,Male,95+ years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,4.8182921714999996,10.929671668960001,1.24652724242
+DALYs (Disability-Adjusted Life Years),China,Female,95+ years,Lower extremity peripheral arterial disease,Low physical activity,Rate,2021,9.14862393045,21.87002351352,2.29233945901
+DALYs (Disability-Adjusted Life Years),China,Male,70-74 years,Ischemic heart disease,Low physical activity,Rate,2021,155.10932747038999,458.33304012632,26.2168938644
+DALYs (Disability-Adjusted Life Years),China,Female,70-74 years,Ischemic heart disease,Low physical activity,Rate,2021,259.34712602113,549.13050850526,62.630211133770004
+DALYs (Disability-Adjusted Life Years),China,Male,75-79 years,Ischemic heart disease,Low physical activity,Rate,2021,276.63344715935,766.70326349073,53.42174699248
+DALYs (Disability-Adjusted Life Years),China,Female,75-79 years,Ischemic heart disease,Low physical activity,Rate,2021,449.51793653682,1025.7289361881499,124.45350107399
+DALYs (Disability-Adjusted Life Years),China,Male,80-84 years,Ischemic heart disease,Low physical activity,Rate,2021,737.70692152606,1705.5400320775402,168.08937076352998
+DALYs (Disability-Adjusted Life Years),China,Female,80-84 years,Ischemic heart disease,Low physical activity,Rate,2021,1031.5559261876901,2209.63048029679,317.30064109725
+DALYs (Disability-Adjusted Life Years),China,Male,85-89 years,Ischemic heart disease,Low physical activity,Rate,2021,1482.29428812795,3441.51861495431,335.03440540505
+DALYs (Disability-Adjusted Life Years),China,Female,85-89 years,Ischemic heart disease,Low physical activity,Rate,2021,1471.81501742367,3228.52405163662,434.76935781453005
+DALYs (Disability-Adjusted Life Years),China,Male,90-94 years,Ischemic heart disease,Low physical activity,Rate,2021,2500.24115572658,5701.4996300558905,573.71206464657
+DALYs (Disability-Adjusted Life Years),China,Female,90-94 years,Ischemic heart disease,Low physical activity,Rate,2021,2379.47634804993,5136.124601063139,714.83646377994
+DALYs (Disability-Adjusted Life Years),China,Male,95+ years,Ischemic heart disease,Low physical activity,Rate,2021,2564.30535765847,6158.82540508488,561.8549794993501
+DALYs (Disability-Adjusted Life Years),China,Female,95+ years,Ischemic heart disease,Low physical activity,Rate,2021,3552.8974671573005,7854.02108073159,1041.87028083522
+DALYs (Disability-Adjusted Life Years),China,Male,25-29 years,Diabetes mellitus,Low physical activity,Rate,2021,5.76713421774,19.68053079903,0.40931050945999997
+DALYs (Disability-Adjusted Life Years),China,Female,25-29 years,Diabetes mellitus,Low physical activity,Rate,2021,10.42466499925,27.433953094720003,1.78436419459
+DALYs (Disability-Adjusted Life Years),China,Male,30-34 years,Diabetes mellitus,Low physical activity,Rate,2021,7.561631611269999,25.38067937965,0.5779524683
+DALYs (Disability-Adjusted Life Years),China,Female,30-34 years,Diabetes mellitus,Low physical activity,Rate,2021,13.06678468931,34.43939459375,2.20356887219
+DALYs (Disability-Adjusted Life Years),China,Male,35-39 years,Diabetes mellitus,Low physical activity,Rate,2021,8.229023588990001,29.24198375251,0.38048508055
+DALYs (Disability-Adjusted Life Years),China,Female,35-39 years,Diabetes mellitus,Low physical activity,Rate,2021,14.453885124669998,39.34589292639,2.28472041303
+DALYs (Disability-Adjusted Life Years),China,Male,40-44 years,Diabetes mellitus,Low physical activity,Rate,2021,11.37817723031,39.28090961753,0.91373436089
+DALYs (Disability-Adjusted Life Years),China,Female,40-44 years,Diabetes mellitus,Low physical activity,Rate,2021,19.309162434439997,46.544124067679995,3.9486251592899997
+DALYs (Disability-Adjusted Life Years),China,Male,45-49 years,Diabetes mellitus,Low physical activity,Rate,2021,18.7277213429,59.647875214150005,1.8350532560000001
+DALYs (Disability-Adjusted Life Years),China,Female,45-49 years,Diabetes mellitus,Low physical activity,Rate,2021,27.89050924482,70.42906313241,5.8219981378000005
+DALYs (Disability-Adjusted Life Years),China,Male,50-54 years,Diabetes mellitus,Low physical activity,Rate,2021,30.136905887210002,85.21429359541,3.4636241673300003
+DALYs (Disability-Adjusted Life Years),China,Female,50-54 years,Diabetes mellitus,Low physical activity,Rate,2021,45.469578465139996,103.17483561036,11.8768269774
+DALYs (Disability-Adjusted Life Years),China,Male,55-59 years,Diabetes mellitus,Low physical activity,Rate,2021,49.745761063779995,138.70514746556,6.99257476364
+DALYs (Disability-Adjusted Life Years),China,Female,55-59 years,Diabetes mellitus,Low physical activity,Rate,2021,83.00820991793,179.73704526508,22.3674894356
+DALYs (Disability-Adjusted Life Years),China,Male,60-64 years,Diabetes mellitus,Low physical activity,Rate,2021,79.260455537,186.00393451748,12.297982519640001
+DALYs (Disability-Adjusted Life Years),China,Female,60-64 years,Diabetes mellitus,Low physical activity,Rate,2021,136.00469156798,264.23671390047997,40.1185461782
+DALYs (Disability-Adjusted Life Years),China,Male,65-69 years,Diabetes mellitus,Low physical activity,Rate,2021,124.46464660771998,275.3869284941,34.23009038317
+DALYs (Disability-Adjusted Life Years),China,Female,65-69 years,Diabetes mellitus,Low physical activity,Rate,2021,201.56972736304,388.68777699342996,68.05741382235
+DALYs (Disability-Adjusted Life Years),China,Male,70-74 years,Diabetes mellitus,Low physical activity,Rate,2021,190.08538867882,403.9355311781,47.621274531400005
+DALYs (Disability-Adjusted Life Years),China,Female,70-74 years,Diabetes mellitus,Low physical activity,Rate,2021,293.07697193362003,515.22416785163,105.19498191801999
+DALYs (Disability-Adjusted Life Years),China,Male,75-79 years,Diabetes mellitus,Low physical activity,Rate,2021,253.04538153572,523.06388846471,73.61540590901001
+DALYs (Disability-Adjusted Life Years),China,Female,75-79 years,Diabetes mellitus,Low physical activity,Rate,2021,357.23517682879,648.15635090847,140.38942025901
+DALYs (Disability-Adjusted Life Years),China,Male,80-84 years,Diabetes mellitus,Low physical activity,Rate,2021,354.46494502694,640.0102900369301,131.32143264038
+DALYs (Disability-Adjusted Life Years),China,Female,80-84 years,Diabetes mellitus,Low physical activity,Rate,2021,417.62230583909,726.0943556841199,168.70418322386
+DALYs (Disability-Adjusted Life Years),China,Female,25-29 years,Breast cancer,Low physical activity,Rate,2021,0.7143177226,1.75586274935,0.06480046718
+DALYs (Disability-Adjusted Life Years),China,Female,30-34 years,Breast cancer,Low physical activity,Rate,2021,2.06059288212,5.48622967205,0.20548309266
+DALYs (Disability-Adjusted Life Years),China,Female,35-39 years,Breast cancer,Low physical activity,Rate,2021,3.6969964784699996,10.03581670293,0.45230619623
+DALYs (Disability-Adjusted Life Years),China,Female,40-44 years,Breast cancer,Low physical activity,Rate,2021,6.4024572631500005,15.8217765771,0.85858563953
+DALYs (Disability-Adjusted Life Years),China,Female,45-49 years,Breast cancer,Low physical activity,Rate,2021,8.16705180437,20.01005917126,0.85932595619
+DALYs (Disability-Adjusted Life Years),China,Female,50-54 years,Breast cancer,Low physical activity,Rate,2021,12.49345809336,29.866797068750003,2.04047281588
+DALYs (Disability-Adjusted Life Years),China,Female,55-59 years,Breast cancer,Low physical activity,Rate,2021,16.728840819080002,38.06039750737,2.58563762116
+DALYs (Disability-Adjusted Life Years),China,Female,60-64 years,Breast cancer,Low physical activity,Rate,2021,18.954173492920003,39.61473981692,2.5768475740000003
+DALYs (Disability-Adjusted Life Years),China,Female,65-69 years,Breast cancer,Low physical activity,Rate,2021,18.943067221979998,39.73662933023,3.48827667599
+DALYs (Disability-Adjusted Life Years),China,Female,70-74 years,Breast cancer,Low physical activity,Rate,2021,19.95580142753,39.41961688795,3.69883026505
+DALYs (Disability-Adjusted Life Years),China,Female,75-79 years,Breast cancer,Low physical activity,Rate,2021,20.05266973141,42.42701860728,3.35788379342
+DALYs (Disability-Adjusted Life Years),China,Female,80-84 years,Breast cancer,Low physical activity,Rate,2021,21.288068641269998,42.43584105519,4.53287383928
+DALYs (Disability-Adjusted Life Years),China,Female,85-89 years,Breast cancer,Low physical activity,Rate,2021,21.17224509769,42.0955339498,4.40579262125
+DALYs (Disability-Adjusted Life Years),China,Female,90-94 years,Breast cancer,Low physical activity,Rate,2021,22.78422293087,45.73395609116,4.88705920345
+DALYs (Disability-Adjusted Life Years),China,Female,95+ years,Breast cancer,Low physical activity,Rate,2021,26.49819926067,53.34362161914,5.92233495367
+DALYs (Disability-Adjusted Life Years),China,Male,40-44 years,Colon and rectum cancer,Low physical activity,Rate,2021,3.851545625,13.95141236319,0.26666170483
+DALYs (Disability-Adjusted Life Years),China,Female,40-44 years,Colon and rectum cancer,Low physical activity,Rate,2021,4.68585441679,13.08691805431,0.88700985837
+DALYs (Disability-Adjusted Life Years),China,Male,45-49 years,Colon and rectum cancer,Low physical activity,Rate,2021,6.63376369463,22.98065195458,0.55348495298
+DALYs (Disability-Adjusted Life Years),China,Female,45-49 years,Colon and rectum cancer,Low physical activity,Rate,2021,6.47460555586,16.61238257941,1.56389654626
+DALYs (Disability-Adjusted Life Years),China,Male,50-54 years,Colon and rectum cancer,Low physical activity,Rate,2021,11.695494988390001,34.74824444945,1.1691313757900001
+DALYs (Disability-Adjusted Life Years),China,Female,50-54 years,Colon and rectum cancer,Low physical activity,Rate,2021,12.42075473824,29.16393629929,3.22892853687
+DALYs (Disability-Adjusted Life Years),China,Male,55-59 years,Colon and rectum cancer,Low physical activity,Rate,2021,22.089864377159998,68.71725302094,3.26914777238
+DALYs (Disability-Adjusted Life Years),China,Female,55-59 years,Colon and rectum cancer,Low physical activity,Rate,2021,23.57301696423,51.257848690550006,6.96906782146
+DALYs (Disability-Adjusted Life Years),China,Male,60-64 years,Colon and rectum cancer,Low physical activity,Rate,2021,39.629382903990006,100.39270717708999,5.30068346858
+DALYs (Disability-Adjusted Life Years),China,Female,60-64 years,Colon and rectum cancer,Low physical activity,Rate,2021,40.3368860176,79.65897955983,11.54887972527
+DALYs (Disability-Adjusted Life Years),China,Male,65-69 years,Colon and rectum cancer,Low physical activity,Rate,2021,65.55666839275,148.45424667622,16.079435645580002
+DALYs (Disability-Adjusted Life Years),China,Female,65-69 years,Colon and rectum cancer,Low physical activity,Rate,2021,62.416985673090004,120.16226262235999,21.98935464785
+DALYs (Disability-Adjusted Life Years),China,Male,70-74 years,Colon and rectum cancer,Low physical activity,Rate,2021,112.27929308597999,251.03906494895,32.33874604718
+DALYs (Disability-Adjusted Life Years),China,Female,70-74 years,Colon and rectum cancer,Low physical activity,Rate,2021,108.29401076035,193.95784832361,40.30301434853
+DALYs (Disability-Adjusted Life Years),China,Male,75-79 years,Colon and rectum cancer,Low physical activity,Rate,2021,165.09702728385,340.9204353388,54.78581058373
+DALYs (Disability-Adjusted Life Years),China,Female,75-79 years,Colon and rectum cancer,Low physical activity,Rate,2021,144.64805203808,271.08488318136,60.695700553529996
+DALYs (Disability-Adjusted Life Years),China,Male,80-84 years,Colon and rectum cancer,Low physical activity,Rate,2021,246.74402465053,443.08739746717004,94.07846953303999
+DALYs (Disability-Adjusted Life Years),China,Female,80-84 years,Colon and rectum cancer,Low physical activity,Rate,2021,197.03769000979,328.56989970746,98.02491422016
+DALYs (Disability-Adjusted Life Years),China,Male,85-89 years,Colon and rectum cancer,Low physical activity,Rate,2021,338.62904315804,609.4278757562,125.87603814294
+DALYs (Disability-Adjusted Life Years),China,Female,85-89 years,Colon and rectum cancer,Low physical activity,Rate,2021,193.85080822493,321.88734124751,90.032955224
+DALYs (Disability-Adjusted Life Years),China,Male,90-94 years,Colon and rectum cancer,Low physical activity,Rate,2021,380.0542860885,706.4942508350999,138.56264369791
+DALYs (Disability-Adjusted Life Years),China,Female,90-94 years,Colon and rectum cancer,Low physical activity,Rate,2021,200.11658134829,330.48199981745,93.40194960352
+DALYs (Disability-Adjusted Life Years),China,Male,95+ years,Colon and rectum cancer,Low physical activity,Rate,2021,285.39003657349,523.0489205779301,106.86254296855
+DALYs (Disability-Adjusted Life Years),China,Female,95+ years,Colon and rectum cancer,Low physical activity,Rate,2021,215.5839485161,363.58518584818,96.55143761248
+DALYs (Disability-Adjusted Life Years),China,Male,25-29 years,Stroke,Low physical activity,Rate,2021,2.87306768825,8.09573706413,0.35925715104
+DALYs (Disability-Adjusted Life Years),China,Female,25-29 years,Stroke,Low physical activity,Rate,2021,5.79649711145,12.09074909448,1.52233528831
+DALYs (Disability-Adjusted Life Years),China,Male,30-34 years,Stroke,Low physical activity,Rate,2021,5.05557936549,12.58361412748,0.6657251438299999
+DALYs (Disability-Adjusted Life Years),China,Female,30-34 years,Stroke,Low physical activity,Rate,2021,7.922660877349999,16.397971201409998,1.95625373056
+DALYs (Disability-Adjusted Life Years),China,Male,35-39 years,Stroke,Low physical activity,Rate,2021,7.427319911,19.92541427927,0.67936930337
+DALYs (Disability-Adjusted Life Years),China,Female,35-39 years,Stroke,Low physical activity,Rate,2021,11.07837108888,23.725842926280002,2.85787547417
+DALYs (Disability-Adjusted Life Years),China,Male,40-44 years,Stroke,Low physical activity,Rate,2021,13.82091611716,38.660847887479996,1.9088336450499999
+DALYs (Disability-Adjusted Life Years),China,Female,40-44 years,Stroke,Low physical activity,Rate,2021,17.3003347875,38.03612375012,4.78147571204
+DALYs (Disability-Adjusted Life Years),China,Male,45-49 years,Stroke,Low physical activity,Rate,2021,24.06627253684,61.44997086483,4.00742223768
+DALYs (Disability-Adjusted Life Years),China,Female,45-49 years,Stroke,Low physical activity,Rate,2021,25.01611708731,53.218550685320004,6.77765592484
+DALYs (Disability-Adjusted Life Years),China,Male,50-54 years,Stroke,Low physical activity,Rate,2021,47.13666247509,107.22067632551999,9.53388477115
+DALYs (Disability-Adjusted Life Years),China,Female,50-54 years,Stroke,Low physical activity,Rate,2021,45.61878038956,92.20309380714,14.4376491485
+DALYs (Disability-Adjusted Life Years),China,Male,55-59 years,Stroke,Low physical activity,Rate,2021,83.61435609652999,202.0929348332,17.05285061088
+DALYs (Disability-Adjusted Life Years),China,Female,55-59 years,Stroke,Low physical activity,Rate,2021,86.50101529967999,168.97541296267,26.86656447615
+DALYs (Disability-Adjusted Life Years),China,Male,60-64 years,Stroke,Low physical activity,Rate,2021,167.22615374476,368.95222634922,34.03854875742
+DALYs (Disability-Adjusted Life Years),China,Female,60-64 years,Stroke,Low physical activity,Rate,2021,158.71994124526,293.16233629032,48.68967818977
+DALYs (Disability-Adjusted Life Years),China,Male,65-69 years,Stroke,Low physical activity,Rate,2021,271.2811390776,583.1295254958301,78.46489094224
+DALYs (Disability-Adjusted Life Years),China,Female,65-69 years,Stroke,Low physical activity,Rate,2021,253.29642661581,476.24303447558003,88.03734499552999
+DALYs (Disability-Adjusted Life Years),China,Male,70-74 years,Stroke,Low physical activity,Rate,2021,445.99467609771,966.1630416260799,119.0733733234
+DALYs (Disability-Adjusted Life Years),China,Female,70-74 years,Stroke,Low physical activity,Rate,2021,423.1004267186,808.7104778481499,124.30330951075999
+DALYs (Disability-Adjusted Life Years),China,Male,75-79 years,Stroke,Low physical activity,Rate,2021,530.2622561887599,1309.44821934025,21.48546358439
+DALYs (Disability-Adjusted Life Years),China,Female,75-79 years,Stroke,Low physical activity,Rate,2021,480.96767487397,1150.74549001866,23.29974291449
+DALYs (Disability-Adjusted Life Years),China,Male,80-84 years,Stroke,Low physical activity,Rate,2021,427.93009937610003,1954.1719538382501,-983.25173963844
+DALYs (Disability-Adjusted Life Years),China,Female,80-84 years,Stroke,Low physical activity,Rate,2021,374.78519661699,1671.51414137586,-886.7017948070201
+DALYs (Disability-Adjusted Life Years),China,Male,85-89 years,Stroke,Low physical activity,Rate,2021,728.345343919,3297.3000396132898,-1714.2889498906602
+DALYs (Disability-Adjusted Life Years),China,Female,85-89 years,Stroke,Low physical activity,Rate,2021,462.04208664874,2083.71408076097,-1102.05329953758
+DALYs (Disability-Adjusted Life Years),China,Male,25-29 years,Colon and rectum cancer,Low physical activity,Rate,2021,0.9386415844399999,3.5589963231399997,0.050755798369999994
+DALYs (Disability-Adjusted Life Years),China,Female,25-29 years,Colon and rectum cancer,Low physical activity,Rate,2021,1.04057386913,2.86963657904,0.18467247765
+DALYs (Disability-Adjusted Life Years),China,Male,30-34 years,Colon and rectum cancer,Low physical activity,Rate,2021,1.9902501105100001,7.15930230355,0.13371238961
+DALYs (Disability-Adjusted Life Years),China,Female,30-34 years,Colon and rectum cancer,Low physical activity,Rate,2021,1.8715690238899998,5.18646832801,0.27596457968
+DALYs (Disability-Adjusted Life Years),China,Male,35-39 years,Colon and rectum cancer,Low physical activity,Rate,2021,2.56629142408,9.12994849192,0.09258768250999999
+DALYs (Disability-Adjusted Life Years),China,Female,35-39 years,Colon and rectum cancer,Low physical activity,Rate,2021,2.67431944318,7.35380158745,0.40980439199999996
+DALYs (Disability-Adjusted Life Years),China,Male,85-89 years,Diabetes mellitus,Low physical activity,Rate,2021,466.37703843213,858.79653842729,172.61032845935
+DALYs (Disability-Adjusted Life Years),China,Female,85-89 years,Diabetes mellitus,Low physical activity,Rate,2021,398.30043796392005,704.4899046694101,157.2330784014
+DALYs (Disability-Adjusted Life Years),China,Male,90-94 years,Diabetes mellitus,Low physical activity,Rate,2021,518.2764508747,960.69725503992,198.52664310181
+DALYs (Disability-Adjusted Life Years),China,Female,90-94 years,Diabetes mellitus,Low physical activity,Rate,2021,388.15457231798,678.35254693995,151.61150845949
+DALYs (Disability-Adjusted Life Years),China,Male,95+ years,Diabetes mellitus,Low physical activity,Rate,2021,411.91840907711,756.4406468081199,155.08376163526
+DALYs (Disability-Adjusted Life Years),China,Female,95+ years,Diabetes mellitus,Low physical activity,Rate,2021,387.74019089724,683.15163073698,154.83160966178
+DALYs (Disability-Adjusted Life Years),China,Male,25-29 years,Ischemic heart disease,Low physical activity,Rate,2021,1.12314023014,3.8162813681800003,0.12274858925
+DALYs (Disability-Adjusted Life Years),China,Female,25-29 years,Ischemic heart disease,Low physical activity,Rate,2021,1.07962862927,3.2091569303400003,0.18205164145
+DALYs (Disability-Adjusted Life Years),China,Male,30-34 years,Ischemic heart disease,Low physical activity,Rate,2021,2.00787602848,6.6143445955899995,0.25222215284
+DALYs (Disability-Adjusted Life Years),China,Female,30-34 years,Ischemic heart disease,Low physical activity,Rate,2021,1.79816276331,5.46413403877,0.26541763545999997
+DALYs (Disability-Adjusted Life Years),China,Male,35-39 years,Ischemic heart disease,Low physical activity,Rate,2021,2.8682146768,10.14190988649,0.24599348030999998
+DALYs (Disability-Adjusted Life Years),China,Female,35-39 years,Ischemic heart disease,Low physical activity,Rate,2021,2.64782804177,8.33126923691,0.37502812398
+DALYs (Disability-Adjusted Life Years),China,Male,40-44 years,Ischemic heart disease,Low physical activity,Rate,2021,4.9062270592,17.18696008997,0.6126740653
+DALYs (Disability-Adjusted Life Years),China,Female,40-44 years,Ischemic heart disease,Low physical activity,Rate,2021,5.20539840788,15.796454712100001,0.96457006166
+DALYs (Disability-Adjusted Life Years),China,Male,45-49 years,Ischemic heart disease,Low physical activity,Rate,2021,7.259732059269999,24.75434239953,0.97519565057
+DALYs (Disability-Adjusted Life Years),China,Female,45-49 years,Ischemic heart disease,Low physical activity,Rate,2021,7.737937365980001,23.30572092833,1.2563970098400001
+DALYs (Disability-Adjusted Life Years),China,Male,50-54 years,Ischemic heart disease,Low physical activity,Rate,2021,12.823412030730001,40.39128518069,1.75668408055
+DALYs (Disability-Adjusted Life Years),China,Female,50-54 years,Ischemic heart disease,Low physical activity,Rate,2021,14.91885713207,39.99741084174,2.9563546298800003
+DALYs (Disability-Adjusted Life Years),China,Male,25-29 years,Chronic kidney disease,Low physical activity,Rate,2021,0.27867124137,1.15231640103,0.01743436667
+DALYs (Disability-Adjusted Life Years),China,Female,25-29 years,Chronic kidney disease,Low physical activity,Rate,2021,0.25729278771999997,0.95808270822,0.03373842948
+DALYs (Disability-Adjusted Life Years),China,Male,30-34 years,Chronic kidney disease,Low physical activity,Rate,2021,0.6248582526400001,2.08036769508,0.07178422994
+DALYs (Disability-Adjusted Life Years),China,Female,30-34 years,Chronic kidney disease,Low physical activity,Rate,2021,0.53343279548,1.5112876478,0.09710211819
+DALYs (Disability-Adjusted Life Years),China,Male,35-39 years,Chronic kidney disease,Low physical activity,Rate,2021,1.27199129663,3.74660449281,0.11859156681000001
+DALYs (Disability-Adjusted Life Years),China,Female,35-39 years,Chronic kidney disease,Low physical activity,Rate,2021,1.19942007204,3.4463946319,0.23562140854
+DALYs (Disability-Adjusted Life Years),China,Male,40-44 years,Chronic kidney disease,Low physical activity,Rate,2021,2.33134754698,6.68602810282,0.25201423047
+DALYs (Disability-Adjusted Life Years),China,Female,40-44 years,Chronic kidney disease,Low physical activity,Rate,2021,2.5133733183199998,6.78437617146,0.62241177627
+DALYs (Disability-Adjusted Life Years),China,Male,55-59 years,Ischemic heart disease,Low physical activity,Rate,2021,22.56081290549,84.35381242250999,2.93708891597
+DALYs (Disability-Adjusted Life Years),China,Female,55-59 years,Ischemic heart disease,Low physical activity,Rate,2021,32.54479667476,84.23615786939,6.4349644461499995
+DALYs (Disability-Adjusted Life Years),China,Male,60-64 years,Ischemic heart disease,Low physical activity,Rate,2021,42.80678509862,131.10325449741,4.27541617272
+DALYs (Disability-Adjusted Life Years),China,Female,60-64 years,Ischemic heart disease,Low physical activity,Rate,2021,65.19078451928,155.70861077496002,13.07362584166
+DALYs (Disability-Adjusted Life Years),China,Male,65-69 years,Ischemic heart disease,Low physical activity,Rate,2021,80.42209947969,220.10059306,14.54866863592
+DALYs (Disability-Adjusted Life Years),China,Female,65-69 years,Ischemic heart disease,Low physical activity,Rate,2021,121.25805378944,287.8916679213,31.0633126389
+DALYs (Disability-Adjusted Life Years),China,Male,25-29 years,Tuberculosis,Low physical activity,Rate,2021,0.20807834613,0.70178885592,0.01819332644
+DALYs (Disability-Adjusted Life Years),China,Female,25-29 years,Tuberculosis,Low physical activity,Rate,2021,0.15324969687,0.48427765345000007,0.023073830820000002
+DALYs (Disability-Adjusted Life Years),China,Male,30-34 years,Tuberculosis,Low physical activity,Rate,2021,0.28335796414,0.94505514717,0.02796837884
+DALYs (Disability-Adjusted Life Years),China,Female,30-34 years,Tuberculosis,Low physical activity,Rate,2021,0.14647463102,0.38739981523,0.02274656346
+DALYs (Disability-Adjusted Life Years),China,Male,35-39 years,Tuberculosis,Low physical activity,Rate,2021,0.33311616353,1.0380193095399999,0.022630044
+DALYs (Disability-Adjusted Life Years),China,Female,35-39 years,Tuberculosis,Low physical activity,Rate,2021,0.16713815799,0.50975602955,0.025689716890000002
+DALYs (Disability-Adjusted Life Years),China,Male,40-44 years,Tuberculosis,Low physical activity,Rate,2021,0.46893734725999997,1.3155236844,0.051899025419999995
+DALYs (Disability-Adjusted Life Years),China,Female,40-44 years,Tuberculosis,Low physical activity,Rate,2021,0.23568157485000002,0.60110042011,0.041003866879999996
+DALYs (Disability-Adjusted Life Years),China,Male,45-49 years,Tuberculosis,Low physical activity,Rate,2021,0.771571699,2.20927724034,0.11060254241
+DALYs (Disability-Adjusted Life Years),China,Female,45-49 years,Tuberculosis,Low physical activity,Rate,2021,0.30885923916,0.7849648045400001,0.05381734325
+DALYs (Disability-Adjusted Life Years),China,Male,50-54 years,Tuberculosis,Low physical activity,Rate,2021,1.09610721972,3.0596215119,0.16121957468
+DALYs (Disability-Adjusted Life Years),China,Female,50-54 years,Tuberculosis,Low physical activity,Rate,2021,0.47431294250999995,1.26854519032,0.10001125681999999
+DALYs (Disability-Adjusted Life Years),China,Male,55-59 years,Tuberculosis,Low physical activity,Rate,2021,1.32683698088,3.7056455356000004,0.21209215385
+DALYs (Disability-Adjusted Life Years),China,Female,55-59 years,Tuberculosis,Low physical activity,Rate,2021,0.61246125425,1.49320295003,0.11559797524
+DALYs (Disability-Adjusted Life Years),China,Male,60-64 years,Tuberculosis,Low physical activity,Rate,2021,2.2798348705800002,6.1137657697900005,0.39897107716
+DALYs (Disability-Adjusted Life Years),China,Female,60-64 years,Tuberculosis,Low physical activity,Rate,2021,1.0755583728,2.4553200298,0.23744657379
+DALYs (Disability-Adjusted Life Years),China,Male,65-69 years,Tuberculosis,Low physical activity,Rate,2021,3.95404855557,9.45105877222,0.9787476045200001
+DALYs (Disability-Adjusted Life Years),China,Female,65-69 years,Tuberculosis,Low physical activity,Rate,2021,1.72947522233,3.8290628507999998,0.42758998048
+DALYs (Disability-Adjusted Life Years),China,Male,70-74 years,Tuberculosis,Low physical activity,Rate,2021,6.211742249369999,14.917362512159999,1.36452947159
+DALYs (Disability-Adjusted Life Years),China,Female,70-74 years,Tuberculosis,Low physical activity,Rate,2021,2.69981250778,5.88566239583,0.6563261969099999
+DALYs (Disability-Adjusted Life Years),China,Male,75-79 years,Tuberculosis,Low physical activity,Rate,2021,7.25339055188,16.19892225771,1.74507476458
+DALYs (Disability-Adjusted Life Years),China,Female,75-79 years,Tuberculosis,Low physical activity,Rate,2021,2.81859903088,6.11547769675,0.79594655779
+DALYs (Disability-Adjusted Life Years),China,Male,80-84 years,Tuberculosis,Low physical activity,Rate,2021,8.71726847321,20.44724202739,2.25351687328
+DALYs (Disability-Adjusted Life Years),China,Female,80-84 years,Tuberculosis,Low physical activity,Rate,2021,3.05695555506,6.73500186218,0.81220963399
+DALYs (Disability-Adjusted Life Years),China,Male,85-89 years,Tuberculosis,Low physical activity,Rate,2021,7.90254329894,18.44015036647,2.12356192695
+DALYs (Disability-Adjusted Life Years),China,Female,85-89 years,Tuberculosis,Low physical activity,Rate,2021,2.8025369640499997,6.352819347,0.71815775931
+DALYs (Disability-Adjusted Life Years),China,Male,90-94 years,Tuberculosis,Low physical activity,Rate,2021,5.20580652529,12.62442812107,1.43593546472
+DALYs (Disability-Adjusted Life Years),China,Female,90-94 years,Tuberculosis,Low physical activity,Rate,2021,2.74539352639,6.02034528149,0.71339108677
+DALYs (Disability-Adjusted Life Years),China,Male,95+ years,Tuberculosis,Low physical activity,Rate,2021,3.15323553251,7.49437912324,0.83200955271
+DALYs (Disability-Adjusted Life Years),China,Female,95+ years,Tuberculosis,Low physical activity,Rate,2021,2.51916212438,5.716972168070001,0.71627001633
+DALYs (Disability-Adjusted Life Years),China,Male,45-49 years,Chronic kidney disease,Low physical activity,Rate,2021,3.8744625500899996,10.12404636421,0.66510915483
+DALYs (Disability-Adjusted Life Years),China,Female,45-49 years,Chronic kidney disease,Low physical activity,Rate,2021,4.26652388413,9.78046469909,1.01499461279
+DALYs (Disability-Adjusted Life Years),China,Male,50-54 years,Chronic kidney disease,Low physical activity,Rate,2021,7.222263000070001,17.21005795779,1.41524800446
+DALYs (Disability-Adjusted Life Years),China,Female,50-54 years,Chronic kidney disease,Low physical activity,Rate,2021,8.28738993722,18.948541512120002,2.2189973048900002
+DALYs (Disability-Adjusted Life Years),China,Male,55-59 years,Chronic kidney disease,Low physical activity,Rate,2021,13.010281089269998,32.25550246244,2.86495132874
+DALYs (Disability-Adjusted Life Years),China,Female,55-59 years,Chronic kidney disease,Low physical activity,Rate,2021,15.90705253635,32.4597717626,4.78436944893
+DALYs (Disability-Adjusted Life Years),China,Male,60-64 years,Chronic kidney disease,Low physical activity,Rate,2021,20.50331399463,48.241066166,4.18873824755
+DALYs (Disability-Adjusted Life Years),China,Female,60-64 years,Chronic kidney disease,Low physical activity,Rate,2021,26.54546512648,54.43779036954,8.62517988376
+DALYs (Disability-Adjusted Life Years),China,Male,65-69 years,Chronic kidney disease,Low physical activity,Rate,2021,32.516384595359995,69.95571707596,9.238676359929999
+DALYs (Disability-Adjusted Life Years),China,Female,65-69 years,Chronic kidney disease,Low physical activity,Rate,2021,41.332617803249995,78.64504933210999,13.36100827794
+DALYs (Disability-Adjusted Life Years),China,Male,70-74 years,Chronic kidney disease,Low physical activity,Rate,2021,57.086206218780006,125.28659703381999,16.432266207290002
+DALYs (Disability-Adjusted Life Years),China,Female,70-74 years,Chronic kidney disease,Low physical activity,Rate,2021,65.38882395861,122.00525797239001,21.94971806888
+DALYs (Disability-Adjusted Life Years),China,Male,75-79 years,Chronic kidney disease,Low physical activity,Rate,2021,85.25579968217001,180.24084655391,25.58814861092
+DALYs (Disability-Adjusted Life Years),China,Female,75-79 years,Chronic kidney disease,Low physical activity,Rate,2021,86.26965521922,169.11025398309,29.92760675614
+DALYs (Disability-Adjusted Life Years),China,Male,80-84 years,Chronic kidney disease,Low physical activity,Rate,2021,120.74919034208,237.4956086561,39.11125684726
+DALYs (Disability-Adjusted Life Years),China,Female,80-84 years,Chronic kidney disease,Low physical activity,Rate,2021,107.67078573284,206.09376279472,35.8450159009
+DALYs (Disability-Adjusted Life Years),China,Male,85-89 years,Chronic kidney disease,Low physical activity,Rate,2021,228.06421624927998,430.15616511102,77.30173402783
+DALYs (Disability-Adjusted Life Years),China,Female,85-89 years,Chronic kidney disease,Low physical activity,Rate,2021,130.97400995572,270.56988292283,45.05538629475
+DALYs (Disability-Adjusted Life Years),China,Male,90-94 years,Chronic kidney disease,Low physical activity,Rate,2021,439.30842184251003,852.0157798866101,166.78260689601
+DALYs (Disability-Adjusted Life Years),China,Female,90-94 years,Chronic kidney disease,Low physical activity,Rate,2021,200.95591079814,401.00964900811,72.78873415509
+DALYs (Disability-Adjusted Life Years),China,Male,95+ years,Chronic kidney disease,Low physical activity,Rate,2021,438.55752077819005,841.3259716100499,153.11136791332999
+DALYs (Disability-Adjusted Life Years),China,Female,95+ years,Chronic kidney disease,Low physical activity,Rate,2021,303.53544662354,551.62880362862,105.92817212983

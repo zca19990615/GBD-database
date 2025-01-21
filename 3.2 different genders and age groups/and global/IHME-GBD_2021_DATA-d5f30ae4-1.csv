@@ -1,0 +1,181 @@
+measure,location,sex,age,cause,rei,metric,year,val,upper,lower
+Deaths,Global,Male,95+ years,All causes,Low physical activity,Rate,2021,295.1744387538,533.98003367135,106.53631770028
+Deaths,Global,Female,95+ years,All causes,Low physical activity,Rate,2021,485.70260370445,874.8211237303301,166.16513150363002
+Deaths,Global,Both,95+ years,All causes,Low physical activity,Rate,2021,432.84567719967,777.05420123082,147.19961018231
+Deaths,China,Male,25-29 years,All causes,Low physical activity,Rate,2021,0.06416679296,0.18628714386,0.00694866416
+Deaths,China,Female,25-29 years,All causes,Low physical activity,Rate,2021,0.07285473264,0.18152001358,0.016181264860000003
+Deaths,China,Both,25-29 years,All causes,Low physical activity,Rate,2021,0.06827220168,0.15583571228999998,0.01867885184
+Deaths,China,Male,30-34 years,All causes,Low physical activity,Rate,2021,0.14483469870000001,0.42788691615,0.01528819887
+Deaths,China,Female,30-34 years,All causes,Low physical activity,Rate,2021,0.15004155935,0.35611374454,0.02949004852
+Deaths,China,Both,30-34 years,All causes,Low physical activity,Rate,2021,0.14734756886,0.34114572366,0.03672049518
+Deaths,China,Male,35-39 years,All causes,Low physical activity,Rate,2021,0.2368254728,0.71042244579,0.01882166156
+Deaths,China,Female,35-39 years,All causes,Low physical activity,Rate,2021,0.27618544517,0.69387469855,0.04972391601
+Deaths,China,Both,35-39 years,All causes,Low physical activity,Rate,2021,0.25599119567,0.56106442799,0.07029782479999999
+Deaths,China,Male,40-44 years,All causes,Low physical activity,Rate,2021,0.4799210991,1.41623845527,0.0575552529
+Deaths,China,Female,40-44 years,All causes,Low physical activity,Rate,2021,0.5804138387700001,1.44966286423,0.14625668046
+Deaths,China,Both,40-44 years,All causes,Low physical activity,Rate,2021,0.52889561722,1.1436017978700002,0.14597348315
+Deaths,China,Male,45-49 years,All causes,Low physical activity,Rate,2021,0.9129949435300001,2.57824365046,0.12736515794
+Deaths,China,Female,45-49 years,All causes,Low physical activity,Rate,2021,0.98286044112,2.27622333817,0.22188390721999998
+Deaths,China,Both,45-49 years,All causes,Low physical activity,Rate,2021,0.94735728774,2.09820978887,0.26475946226999997
+Deaths,China,Male,50-54 years,All causes,Low physical activity,Rate,2021,1.9621830257200001,5.03433770535,0.37072224609
+Deaths,China,Female,50-54 years,All causes,Low physical activity,Rate,2021,2.15361878699,4.90823435307,0.61729553007
+Deaths,China,Both,50-54 years,All causes,Low physical activity,Rate,2021,2.05677388823,4.1350195991500005,0.63975640594
+Deaths,China,Male,55-59 years,All causes,Low physical activity,Rate,2021,4.00238757006,11.23126907879,0.70494828121
+Deaths,China,Female,55-59 years,All causes,Low physical activity,Rate,2021,4.78526274402,10.51792395071,1.26097746898
+Deaths,China,Both,55-59 years,All causes,Low physical activity,Rate,2021,4.39444912471,9.35410004492,1.35851813094
+Deaths,China,Male,60-64 years,All causes,Low physical activity,Rate,2021,9.08441247899,22.12429961588,1.6021525207399998
+Deaths,China,Female,60-64 years,All causes,Low physical activity,Rate,2021,10.43975646362,20.39591167419,3.00861812638
+Deaths,China,Both,60-64 years,All causes,Low physical activity,Rate,2021,9.75980534553,18.60499161096,2.89008677104
+Deaths,China,Male,65-69 years,All causes,Low physical activity,Rate,2021,18.211509559310002,40.13423149662,5.10857853945
+Deaths,China,Female,65-69 years,All causes,Low physical activity,Rate,2021,20.59886113076,41.8839541693,6.529671817910001
+Deaths,China,Both,65-69 years,All causes,Low physical activity,Rate,2021,19.42422324522,34.75896232735,7.330487946350001
+Deaths,China,Male,70-74 years,All causes,Low physical activity,Rate,2021,38.86844084178,88.43214729464,11.05532872176
+Deaths,China,Female,70-74 years,All causes,Low physical activity,Rate,2021,45.50789326999,89.24983099944,14.55338167427
+Deaths,China,Both,70-74 years,All causes,Low physical activity,Rate,2021,42.28679739518,76.00140263898,15.27657966578
+Deaths,China,Male,75-79 years,All causes,Low physical activity,Rate,2021,68.04845398849,153.23857219209,18.7911856682
+Deaths,China,Female,75-79 years,All causes,Low physical activity,Rate,2021,78.54250092187999,165.63050591764,25.24736759989
+Deaths,China,Both,75-79 years,All causes,Low physical activity,Rate,2021,73.59872377856,145.17215066466,29.41983564609
+Deaths,China,Male,80-84 years,All causes,Low physical activity,Rate,2021,132.21193345837,329.76761314155,12.81911497602
+Deaths,China,Female,80-84 years,All causes,Low physical activity,Rate,2021,149.25686348905,326.88755317329,36.495485567269995
+Deaths,China,Both,80-84 years,All causes,Low physical activity,Rate,2021,141.7858943576,297.13750275312003,36.08036929406
+Deaths,China,Male,85-89 years,All causes,Low physical activity,Rate,2021,304.99007193579,738.56472711806,29.489245525210002
+Deaths,China,Female,85-89 years,All causes,Low physical activity,Rate,2021,241.41198371161002,538.55778574452,55.90853191968
+Deaths,China,Both,85-89 years,All causes,Low physical activity,Rate,2021,264.64479150958,561.2719763213,65.95213941981
+Deaths,China,Male,90-94 years,All causes,Low physical activity,Rate,2021,526.89235417494,1241.54848680145,77.20728416722
+Deaths,China,Female,90-94 years,All causes,Low physical activity,Rate,2021,404.07540384142004,916.7038650217601,96.32682644437999
+Deaths,China,Both,90-94 years,All causes,Low physical activity,Rate,2021,437.95638337521,920.3043735683,116.50198561545999
+Deaths,Global,Male,25-29 years,All causes,Low physical activity,Rate,2021,0.08592580601,0.14265071314,0.03954933049
+Deaths,Global,Female,25-29 years,All causes,Low physical activity,Rate,2021,0.13633670142,0.21829168153,0.06237658907
+Deaths,Global,Both,25-29 years,All causes,Low physical activity,Rate,2021,0.11085841066,0.17220614901,0.05350795131
+Deaths,Global,Male,30-34 years,All causes,Low physical activity,Rate,2021,0.17970331816,0.29849459767,0.07748753393999999
+Deaths,Global,Female,30-34 years,All causes,Low physical activity,Rate,2021,0.26210496567,0.41628442147,0.12840737049
+Deaths,Global,Both,30-34 years,All causes,Low physical activity,Rate,2021,0.22045303571,0.34959624107000004,0.10777490361
+Deaths,Global,Male,35-39 years,All causes,Low physical activity,Rate,2021,0.35907117287,0.59440234326,0.15775674773
+Deaths,Global,Female,35-39 years,All causes,Low physical activity,Rate,2021,0.5074004613900001,0.81008566926,0.23105724766000002
+Deaths,Global,Both,35-39 years,All causes,Low physical activity,Rate,2021,0.4325401906,0.67602936615,0.19730435193999998
+Deaths,Global,Male,40-44 years,All causes,Low physical activity,Rate,2021,0.77942295361,1.30013333524,0.36344203866999997
+Deaths,Global,Female,40-44 years,All causes,Low physical activity,Rate,2021,1.09182014175,1.73369619841,0.49449820969
+Deaths,Global,Both,40-44 years,All causes,Low physical activity,Rate,2021,0.9343503926500001,1.44606624631,0.44702794080999997
+Deaths,Global,Male,45-49 years,All causes,Low physical activity,Rate,2021,1.5917335415500002,2.44705782806,0.75250713195
+Deaths,Global,Female,45-49 years,All causes,Low physical activity,Rate,2021,2.2720690526,3.5142223641,1.0328762498800002
+Deaths,Global,Both,45-49 years,All causes,Low physical activity,Rate,2021,1.93030681817,2.90563769173,0.91027803013
+Deaths,Global,Male,50-54 years,All causes,Low physical activity,Rate,2021,3.25501966151,5.36447532941,1.41548379983
+Deaths,Global,Female,50-54 years,All causes,Low physical activity,Rate,2021,4.21299202717,6.6847114348100005,1.91190929439
+Deaths,Global,Both,50-54 years,All causes,Low physical activity,Rate,2021,3.73504165724,5.74666836134,1.7292990872699998
+Deaths,Global,Male,55-59 years,All causes,Low physical activity,Rate,2021,6.422608804139999,10.76510871575,2.8290305847
+Deaths,Global,Female,55-59 years,All causes,Low physical activity,Rate,2021,8.21145401642,12.97633556404,3.53473768735
+Deaths,Global,Both,55-59 years,All causes,Low physical activity,Rate,2021,7.33122327588,11.521782803459999,3.4869146983799997
+Deaths,Global,Male,60-64 years,All causes,Low physical activity,Rate,2021,13.31977898321,21.77743895228,6.0273193873399995
+Deaths,Global,Female,60-64 years,All causes,Low physical activity,Rate,2021,15.60073328529,23.873179581909998,6.628142253849999
+Deaths,Global,Both,60-64 years,All causes,Low physical activity,Rate,2021,14.492234653130001,22.556886475469998,6.14707567956
+Deaths,Global,Male,65-69 years,All causes,Low physical activity,Rate,2021,22.77340051005,37.23812667469,9.58949064626
+Deaths,Global,Female,65-69 years,All causes,Low physical activity,Rate,2021,26.750331527790003,42.4389896725,12.23453958431
+Deaths,Global,Both,65-69 years,All causes,Low physical activity,Rate,2021,24.84963697712,38.81625305331,11.47920374164
+Deaths,Global,Male,70-74 years,All causes,Low physical activity,Rate,2021,41.15285715942,67.18156715735999,17.22575061874
+Deaths,Global,Female,70-74 years,All causes,Low physical activity,Rate,2021,49.79111359317999,78.52814900075,22.32808988708
+Deaths,Global,Both,70-74 years,All causes,Low physical activity,Rate,2021,45.74594797325,71.95720046992001,20.50695140323
+Deaths,Global,Male,75-79 years,All causes,Low physical activity,Rate,2021,64.218400842,109.13080953516,27.17381011678
+Deaths,Global,Female,75-79 years,All causes,Low physical activity,Rate,2021,82.55524150432001,138.00245205855998,35.20721057774
+Deaths,Global,Both,75-79 years,All causes,Low physical activity,Rate,2021,74.24266186242,121.81269698267,31.64368028878
+Deaths,Global,Male,80-84 years,All causes,Low physical activity,Rate,2021,108.39936623501,205.84617241769,34.70872802769
+Deaths,Global,Female,80-84 years,All causes,Low physical activity,Rate,2021,143.2430116875,262.34861504796,50.11579429553
+Deaths,Global,Both,80-84 years,All causes,Low physical activity,Rate,2021,128.66160134493,227.35685482566,45.035667275550004
+Deaths,Global,Male,85-89 years,All causes,Low physical activity,Rate,2021,185.15984139507,356.48457733789996,58.86114744463
+Deaths,Global,Female,85-89 years,All causes,Low physical activity,Rate,2021,216.48739420814002,403.66292871083,73.44795892168
+Deaths,Global,Both,85-89 years,All causes,Low physical activity,Rate,2021,204.66625620887,368.96761624446003,69.24486559318
+Deaths,Global,Male,90-94 years,All causes,Low physical activity,Rate,2021,271.22767121659996,513.0738128210601,88.7997170899
+Deaths,Global,Female,90-94 years,All causes,Low physical activity,Rate,2021,340.73587572291,631.3369118647,115.57348671093
+Deaths,Global,Both,90-94 years,All causes,Low physical activity,Rate,2021,318.08955444363,579.41650468462,107.97287380325
+Deaths,China,Male,95+ years,All causes,Low physical activity,Rate,2021,511.64445498453995,1196.62703849595,93.11983426832
+Deaths,China,Female,95+ years,All causes,Low physical activity,Rate,2021,603.8135855389199,1340.9561128967598,151.7367496588
+Deaths,China,Both,95+ years,All causes,Low physical activity,Rate,2021,586.37139906072,1237.60891284782,176.83063667657999
+DALYs (Disability-Adjusted Life Years),Global,Male,70-74 years,All causes,Low physical activity,Rate,2021,1051.77682725971,1709.5198915589901,449.33755773087995
+DALYs (Disability-Adjusted Life Years),Global,Female,70-74 years,All causes,Low physical activity,Rate,2021,1296.73372396211,2025.74557049684,585.13281959121
+DALYs (Disability-Adjusted Life Years),Global,Both,70-74 years,All causes,Low physical activity,Rate,2021,1182.0240919313198,1853.35453691336,534.97142140224
+DALYs (Disability-Adjusted Life Years),Global,Male,75-79 years,All causes,Low physical activity,Rate,2021,1297.09558071281,2203.71027482406,548.35323179129
+DALYs (Disability-Adjusted Life Years),Global,Female,75-79 years,All causes,Low physical activity,Rate,2021,1659.42957374164,2796.9165626364497,708.28627699685
+DALYs (Disability-Adjusted Life Years),Global,Both,75-79 years,All causes,Low physical activity,Rate,2021,1495.17389690586,2430.5503702352503,663.1510422478
+DALYs (Disability-Adjusted Life Years),Global,Male,80-84 years,All causes,Low physical activity,Rate,2021,1661.08006549932,3110.47601338003,569.0280100589999
+DALYs (Disability-Adjusted Life Years),Global,Female,80-84 years,All causes,Low physical activity,Rate,2021,2154.0208251436698,3855.7903174286403,783.7846802840199
+DALYs (Disability-Adjusted Life Years),Global,Both,80-84 years,All causes,Low physical activity,Rate,2021,1947.73438761373,3433.07518705043,711.1517832582599
+DALYs (Disability-Adjusted Life Years),Global,Male,85-89 years,All causes,Low physical activity,Rate,2021,2143.3202165264597,4034.20904661519,706.07346884115
+DALYs (Disability-Adjusted Life Years),Global,Female,85-89 years,All causes,Low physical activity,Rate,2021,2509.9070288705902,4580.61750575362,843.67483646077
+DALYs (Disability-Adjusted Life Years),Global,Both,85-89 years,All causes,Low physical activity,Rate,2021,2371.57917021875,4279.05646008981,810.93950692996
+DALYs (Disability-Adjusted Life Years),Global,Male,90-94 years,All causes,Low physical activity,Rate,2021,2651.8969008694,4904.51112489955,934.3714627343701
+DALYs (Disability-Adjusted Life Years),Global,Female,90-94 years,All causes,Low physical activity,Rate,2021,3300.7278482138495,6074.8567476581,1147.33502688859
+DALYs (Disability-Adjusted Life Years),Global,Both,90-94 years,All causes,Low physical activity,Rate,2021,3089.3336078667703,5589.2141656861395,1085.32305735479
+DALYs (Disability-Adjusted Life Years),Global,Male,95+ years,All causes,Low physical activity,Rate,2021,2708.30855686323,4849.95734282742,1022.6356315489601
+DALYs (Disability-Adjusted Life Years),Global,Female,95+ years,All causes,Low physical activity,Rate,2021,4283.92169254572,7694.244808951909,1473.1917147968202
+DALYs (Disability-Adjusted Life Years),Global,Both,95+ years,All causes,Low physical activity,Rate,2021,3846.81010993903,6936.18839348461,1352.03306437176
+DALYs (Disability-Adjusted Life Years),Global,Male,25-29 years,All causes,Low physical activity,Rate,2021,9.80974492772,16.69416986837,4.36599021708
+DALYs (Disability-Adjusted Life Years),Global,Female,25-29 years,All causes,Low physical activity,Rate,2021,17.916039949309997,27.633866917259997,8.65893613037
+DALYs (Disability-Adjusted Life Years),Global,Both,25-29 years,All causes,Low physical activity,Rate,2021,13.81901806848,21.59013103693,6.6100229945
+DALYs (Disability-Adjusted Life Years),Global,Male,30-34 years,All causes,Low physical activity,Rate,2021,17.46029601513,29.55253778754,7.346682656960001
+DALYs (Disability-Adjusted Life Years),Global,Female,30-34 years,All causes,Low physical activity,Rate,2021,29.515582952009996,47.59985935338,13.64902642989
+DALYs (Disability-Adjusted Life Years),Global,Both,30-34 years,All causes,Low physical activity,Rate,2021,23.42194305079,36.65268213622,10.69292145019
+DALYs (Disability-Adjusted Life Years),Global,Male,35-39 years,All causes,Low physical activity,Rate,2021,30.37667806662,50.06305676104,13.903601911480001
+DALYs (Disability-Adjusted Life Years),Global,Female,35-39 years,All causes,Low physical activity,Rate,2021,47.89003064544,76.79278471976001,21.82995707425
+DALYs (Disability-Adjusted Life Years),Global,Both,35-39 years,All causes,Low physical activity,Rate,2021,39.05122119981,60.387318702570006,17.88423237045
+DALYs (Disability-Adjusted Life Years),Global,Male,40-44 years,All causes,Low physical activity,Rate,2021,55.984328749430006,90.61277309286001,25.87012946892
+DALYs (Disability-Adjusted Life Years),Global,Female,40-44 years,All causes,Low physical activity,Rate,2021,85.28856257967,137.00627377226002,38.507041307150004
+DALYs (Disability-Adjusted Life Years),Global,Both,40-44 years,All causes,Low physical activity,Rate,2021,70.51720571758,108.60644296167,33.23514009418
+DALYs (Disability-Adjusted Life Years),Global,Male,45-49 years,All causes,Low physical activity,Rate,2021,99.6992714291,155.87924299754,45.82667148382
+DALYs (Disability-Adjusted Life Years),Global,Female,45-49 years,All causes,Low physical activity,Rate,2021,150.18070202839,231.71938576169,66.98349183969
+DALYs (Disability-Adjusted Life Years),Global,Both,45-49 years,All causes,Low physical activity,Rate,2021,124.82167513891999,189.71787787274002,57.31262076148
+DALYs (Disability-Adjusted Life Years),Global,Male,50-54 years,All causes,Low physical activity,Rate,2021,174.49902761638,289.70387875853004,80.0431321643
+DALYs (Disability-Adjusted Life Years),Global,Female,50-54 years,All causes,Low physical activity,Rate,2021,240.32312159839,382.53109179789,105.60842516362
+DALYs (Disability-Adjusted Life Years),Global,Both,50-54 years,All causes,Low physical activity,Rate,2021,207.48224727212,324.59892212832,94.53230117324
+DALYs (Disability-Adjusted Life Years),Global,Male,55-59 years,All causes,Low physical activity,Rate,2021,295.18231863514,492.80360615605,131.94310036991
+DALYs (Disability-Adjusted Life Years),Global,Female,55-59 years,All causes,Low physical activity,Rate,2021,400.22960768303,627.17731057617,173.97153412858
+DALYs (Disability-Adjusted Life Years),Global,Both,55-59 years,All causes,Low physical activity,Rate,2021,348.53935947404,550.35233920526,163.24375151071
+DALYs (Disability-Adjusted Life Years),Global,Male,60-64 years,All causes,Low physical activity,Rate,2021,506.45995354806,812.8899095232499,224.18240921362
+DALYs (Disability-Adjusted Life Years),Global,Female,60-64 years,All causes,Low physical activity,Rate,2021,631.45700930414,952.60338933312,262.74239896128
+DALYs (Disability-Adjusted Life Years),Global,Both,60-64 years,All causes,Low physical activity,Rate,2021,570.71091491609,874.73227809193,246.46249749397998
+DALYs (Disability-Adjusted Life Years),Global,Male,65-69 years,All causes,Low physical activity,Rate,2021,723.49941109902,1143.59846056729,311.00023680457
+DALYs (Disability-Adjusted Life Years),Global,Female,65-69 years,All causes,Low physical activity,Rate,2021,888.12374720379,1383.11834895387,397.66814445265
+DALYs (Disability-Adjusted Life Years),Global,Both,65-69 years,All causes,Low physical activity,Rate,2021,809.44484200113,1245.88611746327,366.42999161561
+DALYs (Disability-Adjusted Life Years),China,Male,25-29 years,All causes,Low physical activity,Rate,2021,11.18873330807,35.72517918754,1.02857825175
+DALYs (Disability-Adjusted Life Years),China,Female,25-29 years,All causes,Low physical activity,Rate,2021,19.466224816289998,47.18710417836,4.38774190825
+DALYs (Disability-Adjusted Life Years),China,Both,25-29 years,All causes,Low physical activity,Rate,2021,15.10018839599,32.63411328274,4.54788733181
+DALYs (Disability-Adjusted Life Years),China,Male,30-34 years,All causes,Low physical activity,Rate,2021,17.52355333252,53.40293681143999,1.90979124347
+DALYs (Disability-Adjusted Life Years),China,Female,30-34 years,All causes,Low physical activity,Rate,2021,27.39967766246,66.22808004195,5.08554258761
+DALYs (Disability-Adjusted Life Years),China,Both,30-34 years,All causes,Low physical activity,Rate,2021,22.28984530753,50.696596588119995,6.04897882121
+DALYs (Disability-Adjusted Life Years),China,Male,35-39 years,All causes,Low physical activity,Rate,2021,22.69595706103,68.60107698344001,1.6395208203099998
+DALYs (Disability-Adjusted Life Years),China,Female,35-39 years,All causes,Low physical activity,Rate,2021,35.91795840701,91.48139577829,6.82732394611
+DALYs (Disability-Adjusted Life Years),China,Both,35-39 years,All causes,Low physical activity,Rate,2021,29.134203795590004,65.0409431149,7.99014236761
+DALYs (Disability-Adjusted Life Years),China,Male,40-44 years,All causes,Low physical activity,Rate,2021,36.77642634467,116.64504468729001,4.16864399935
+DALYs (Disability-Adjusted Life Years),China,Female,40-44 years,All causes,Low physical activity,Rate,2021,55.67032480031,125.92644332462999,14.226445347799999
+DALYs (Disability-Adjusted Life Years),China,Both,40-44 years,All causes,Low physical activity,Rate,2021,45.98425146006,101.28363158623002,12.583568940770002
+DALYs (Disability-Adjusted Life Years),China,Male,45-49 years,All causes,Low physical activity,Rate,2021,61.361971570150004,174.65734881713,8.25575204561
+DALYs (Disability-Adjusted Life Years),China,Female,45-49 years,All causes,Low physical activity,Rate,2021,79.88471106982,184.13865129108999,18.562410550579997
+DALYs (Disability-Adjusted Life Years),China,Both,45-49 years,All causes,Low physical activity,Rate,2021,70.47211566642,154.54600402453,19.97242187308
+DALYs (Disability-Adjusted Life Years),China,Male,50-54 years,All causes,Low physical activity,Rate,2021,110.17771233106,271.58508384098997,19.42578735339
+DALYs (Disability-Adjusted Life Years),China,Female,50-54 years,All causes,Low physical activity,Rate,2021,139.78153665154,301.2703140613,41.7497374876
+DALYs (Disability-Adjusted Life Years),China,Both,50-54 years,All causes,Low physical activity,Rate,2021,124.80534124155,247.67234984485,38.32664367725
+DALYs (Disability-Adjusted Life Years),China,Male,55-59 years,All causes,Low physical activity,Rate,2021,192.51663574973,526.70387512942,35.72913924334
+DALYs (Disability-Adjusted Life Years),China,Female,55-59 years,All causes,Low physical activity,Rate,2021,259.27132485475,532.63430891413,69.90795149352
+DALYs (Disability-Adjusted Life Years),China,Both,55-59 years,All causes,Low physical activity,Rate,2021,225.94718516726,455.32728883236,71.58568493192
+DALYs (Disability-Adjusted Life Years),China,Male,60-64 years,All causes,Low physical activity,Rate,2021,352.06816190242,824.5657728337699,62.81304749242
+DALYs (Disability-Adjusted Life Years),China,Female,60-64 years,All causes,Low physical activity,Rate,2021,447.74669398000003,889.4536738927501,129.36538296425
+DALYs (Disability-Adjusted Life Years),China,Both,60-64 years,All causes,Low physical activity,Rate,2021,399.74653638035,743.85481316936,118.09503436278001
+DALYs (Disability-Adjusted Life Years),China,Male,65-69 years,All causes,Low physical activity,Rate,2021,578.89918721153,1283.57901604502,160.40614228318
+DALYs (Disability-Adjusted Life Years),China,Female,65-69 years,All causes,Low physical activity,Rate,2021,702.31147191946,1401.31047315685,232.80111914260002
+DALYs (Disability-Adjusted Life Years),China,Both,65-69 years,All causes,Low physical activity,Rate,2021,641.58947902473,1155.1934856529099,235.96631200016
+DALYs (Disability-Adjusted Life Years),China,Male,70-74 years,All causes,Low physical activity,Rate,2021,967.9401991886201,2145.89773399341,259.72629134231
+DALYs (Disability-Adjusted Life Years),China,Female,70-74 years,All causes,Low physical activity,Rate,2021,1174.8050237877,2216.88901686822,383.36558380643
+DALYs (Disability-Adjusted Life Years),China,Both,70-74 years,All causes,Low physical activity,Rate,2021,1074.44562813521,1928.1436889856798,394.71982649093997
+DALYs (Disability-Adjusted Life Years),China,Male,75-79 years,All causes,Low physical activity,Rate,2021,1319.19772648624,2940.8494987692698,382.85703512081
+DALYs (Disability-Adjusted Life Years),China,Female,75-79 years,All causes,Low physical activity,Rate,2021,1545.66065491515,3152.2158422872003,518.23980888756
+DALYs (Disability-Adjusted Life Years),China,Both,75-79 years,All causes,Low physical activity,Rate,2021,1438.9732866878,2758.83520091613,582.1209829533999
+DALYs (Disability-Adjusted Life Years),China,Male,80-84 years,All causes,Low physical activity,Rate,2021,1898.56683133269,4531.784796355741,245.57726292968002
+DALYs (Disability-Adjusted Life Years),China,Female,80-84 years,All causes,Low physical activity,Rate,2021,2158.40272049329,4689.264236228631,549.9195451721799
+DALYs (Disability-Adjusted Life Years),China,Both,80-84 years,All causes,Low physical activity,Rate,2021,2044.51396274148,4232.05062609949,534.67735328171
+DALYs (Disability-Adjusted Life Years),China,Male,85-89 years,All causes,Low physical activity,Rate,2021,3254.9191028956097,7781.647982630089,356.73431884217
+DALYs (Disability-Adjusted Life Years),China,Female,85-89 years,All causes,Low physical activity,Rate,2021,2686.50549456256,5877.8476349333305,629.60654322622
+DALYs (Disability-Adjusted Life Years),China,Both,85-89 years,All causes,Low physical activity,Rate,2021,2894.21611438474,6177.34235549158,725.19117182089
+DALYs (Disability-Adjusted Life Years),China,Male,90-94 years,All causes,Low physical activity,Rate,2021,4776.38790582027,11204.29340876713,750.27802857904
+DALYs (Disability-Adjusted Life Years),China,Female,90-94 years,All causes,Low physical activity,Rate,2021,3776.59286764519,8566.44108770605,911.1633621770201
+DALYs (Disability-Adjusted Life Years),China,Both,90-94 years,All causes,Low physical activity,Rate,2021,4052.40198954901,8448.955263202999,1080.58614432921
+DALYs (Disability-Adjusted Life Years),China,Male,95+ years,All causes,Low physical activity,Rate,2021,4417.28666676554,10218.01184930318,824.47389186716
+DALYs (Disability-Adjusted Life Years),China,Female,95+ years,All causes,Low physical activity,Rate,2021,5200.84960783962,11608.78643278381,1350.05661535461
+DALYs (Disability-Adjusted Life Years),China,Both,95+ years,All causes,Low physical activity,Rate,2021,5052.56730493175,10410.59772555657,1525.57934552518
