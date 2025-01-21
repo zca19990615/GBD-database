@@ -1,0 +1,65 @@
+﻿measure,location,sex,age,cause,rei,metric,year,val,upper,lower
+Deaths,China,Female,Age-standardized,All causes,Low physical activity,Rate,1990,9.371208798,17.12857218,3.654103404
+Deaths,China,Female,Age-standardized,All causes,Low physical activity,Rate,1991,9.228558413,16.49922996,3.516716729
+Deaths,China,Female,Age-standardized,All causes,Low physical activity,Rate,1992,9.160253795,16.7642393,3.59130444
+Deaths,China,Female,Age-standardized,All causes,Low physical activity,Rate,1993,9.12990667,16.23181835,3.501114572
+Deaths,China,Female,Age-standardized,All causes,Low physical activity,Rate,1994,9.103909256,16.6265517,3.425206566
+Deaths,China,Female,Age-standardized,All causes,Low physical activity,Rate,1995,9.047645178,15.97654789,3.539738001
+Deaths,China,Female,Age-standardized,All causes,Low physical activity,Rate,1996,8.984471612,16.45237056,3.497453012
+Deaths,China,Female,Age-standardized,All causes,Low physical activity,Rate,1997,8.910602515,16.25377553,3.280099968
+Deaths,China,Female,Age-standardized,All causes,Low physical activity,Rate,1998,8.997614359,16.4719946,3.370349232
+Deaths,China,Female,Age-standardized,All causes,Low physical activity,Rate,1999,9.156928842,17.01769816,3.346483635
+Deaths,China,Female,Age-standardized,All causes,Low physical activity,Rate,2000,9.462080473,17.28114561,3.451359421
+Deaths,China,Female,Age-standardized,All causes,Low physical activity,Rate,2001,9.708317265,17.66680589,3.388479894
+Deaths,China,Female,Age-standardized,All causes,Low physical activity,Rate,2002,9.851251408,17.6368402,3.52224741
+Deaths,China,Female,Age-standardized,All causes,Low physical activity,Rate,2003,10.34330076,18.76840602,3.772097198
+Deaths,China,Female,Age-standardized,All causes,Low physical activity,Rate,2004,10.6056464,19.05331249,3.713906786
+Deaths,China,Female,Age-standardized,All causes,Low physical activity,Rate,2005,10.53972815,19.32874333,3.814332873
+Deaths,China,Female,Age-standardized,All causes,Low physical activity,Rate,2006,9.814631562,17.57375102,3.486103094
+Deaths,China,Female,Age-standardized,All causes,Low physical activity,Rate,2007,9.466452254,17.03017235,3.339914886
+Deaths,China,Female,Age-standardized,All causes,Low physical activity,Rate,2008,9.463600262,16.84437739,3.422749448
+Deaths,China,Female,Age-standardized,All causes,Low physical activity,Rate,2009,9.523316652,17.44999713,3.38371545
+Deaths,China,Female,Age-standardized,All causes,Low physical activity,Rate,2010,9.618938979,17.70740483,3.469940584
+Deaths,China,Female,Age-standardized,All causes,Low physical activity,Rate,2011,9.622362072,17.58838719,3.372407846
+Deaths,China,Female,Age-standardized,All causes,Low physical activity,Rate,2012,9.167839885,17.44596825,3.318312163
+Deaths,China,Female,Age-standardized,All causes,Low physical activity,Rate,2013,9.061756018,17.13451571,3.407953037
+Deaths,China,Female,Age-standardized,All causes,Low physical activity,Rate,2014,8.904388487,16.21441557,3.169784488
+Deaths,China,Female,Age-standardized,All causes,Low physical activity,Rate,2015,8.623807051,15.98358313,3.104104477
+Deaths,China,Female,Age-standardized,All causes,Low physical activity,Rate,2016,8.537710529,15.79369896,3.002362901
+Deaths,China,Female,Age-standardized,All causes,Low physical activity,Rate,2017,8.537469361,16.20363234,3.161091339
+Deaths,China,Female,Age-standardized,All causes,Low physical activity,Rate,2018,8.482305582,15.37829366,3.092419156
+Deaths,China,Female,Age-standardized,All causes,Low physical activity,Rate,2019,8.42122731,15.64547434,3.019377079
+Deaths,China,Female,Age-standardized,All causes,Low physical activity,Rate,2020,8.353018393,15.25999752,3.039384624
+Deaths,China,Female,Age-standardized,All causes,Low physical activity,Rate,2021,8.291871312,16.00044695,2.904470965
+DALYs (Disability-Adjusted Life Years),China,Female,Age-standardized,All causes,Low physical activity,Rate,1990,197.0822796,330.2582776,82.59220834
+DALYs (Disability-Adjusted Life Years),China,Female,Age-standardized,All causes,Low physical activity,Rate,1991,194.7319822,326.2682873,81.76803321
+DALYs (Disability-Adjusted Life Years),China,Female,Age-standardized,All causes,Low physical activity,Rate,1992,193.7364146,327.0770659,83.10536335
+DALYs (Disability-Adjusted Life Years),China,Female,Age-standardized,All causes,Low physical activity,Rate,1993,192.9862237,324.6197377,84.20393886
+DALYs (Disability-Adjusted Life Years),China,Female,Age-standardized,All causes,Low physical activity,Rate,1994,192.2269257,313.4924438,83.0720002
+DALYs (Disability-Adjusted Life Years),China,Female,Age-standardized,All causes,Low physical activity,Rate,1995,190.6357167,315.5396998,79.00755471
+DALYs (Disability-Adjusted Life Years),China,Female,Age-standardized,All causes,Low physical activity,Rate,1996,188.8990107,316.5143,83.22223749
+DALYs (Disability-Adjusted Life Years),China,Female,Age-standardized,All causes,Low physical activity,Rate,1997,186.8494181,310.5923792,82.7667117
+DALYs (Disability-Adjusted Life Years),China,Female,Age-standardized,All causes,Low physical activity,Rate,1998,187.7709232,314.4479575,80.92658808
+DALYs (Disability-Adjusted Life Years),China,Female,Age-standardized,All causes,Low physical activity,Rate,1999,189.9430067,325.1274453,82.5334244
+DALYs (Disability-Adjusted Life Years),China,Female,Age-standardized,All causes,Low physical activity,Rate,2000,193.9307088,321.0666295,86.27072988
+DALYs (Disability-Adjusted Life Years),China,Female,Age-standardized,All causes,Low physical activity,Rate,2001,196.6023312,327.3089972,86.57664052
+DALYs (Disability-Adjusted Life Years),China,Female,Age-standardized,All causes,Low physical activity,Rate,2002,198.5972629,333.1146477,88.56530042
+DALYs (Disability-Adjusted Life Years),China,Female,Age-standardized,All causes,Low physical activity,Rate,2003,205.3789294,341.4380325,87.75315131
+DALYs (Disability-Adjusted Life Years),China,Female,Age-standardized,All causes,Low physical activity,Rate,2004,209.1026799,341.7068641,90.75061322
+DALYs (Disability-Adjusted Life Years),China,Female,Age-standardized,All causes,Low physical activity,Rate,2005,206.9208212,346.9012981,87.81580568
+DALYs (Disability-Adjusted Life Years),China,Female,Age-standardized,All causes,Low physical activity,Rate,2006,195.8098156,322.7289244,85.86139281
+DALYs (Disability-Adjusted Life Years),China,Female,Age-standardized,All causes,Low physical activity,Rate,2007,189.8397282,313.7041557,82.23100064
+DALYs (Disability-Adjusted Life Years),China,Female,Age-standardized,All causes,Low physical activity,Rate,2008,188.6299052,315.3513716,79.60662269
+DALYs (Disability-Adjusted Life Years),China,Female,Age-standardized,All causes,Low physical activity,Rate,2009,188.6065955,311.9356428,80.12009465
+DALYs (Disability-Adjusted Life Years),China,Female,Age-standardized,All causes,Low physical activity,Rate,2010,189.1866997,320.8484223,80.10721201
+DALYs (Disability-Adjusted Life Years),China,Female,Age-standardized,All causes,Low physical activity,Rate,2011,189.0465431,320.2784287,81.97245278
+DALYs (Disability-Adjusted Life Years),China,Female,Age-standardized,All causes,Low physical activity,Rate,2012,183.3452079,317.8634899,76.26678038
+DALYs (Disability-Adjusted Life Years),China,Female,Age-standardized,All causes,Low physical activity,Rate,2013,181.2348802,313.5483596,79.00147911
+DALYs (Disability-Adjusted Life Years),China,Female,Age-standardized,All causes,Low physical activity,Rate,2014,178.4954186,292.7078148,75.30458218
+DALYs (Disability-Adjusted Life Years),China,Female,Age-standardized,All causes,Low physical activity,Rate,2015,174.8660275,292.825663,75.39609563
+DALYs (Disability-Adjusted Life Years),China,Female,Age-standardized,All causes,Low physical activity,Rate,2016,173.943556,294.8268329,73.81688797
+DALYs (Disability-Adjusted Life Years),China,Female,Age-standardized,All causes,Low physical activity,Rate,2017,174.668945,293.9476497,77.1255586
+DALYs (Disability-Adjusted Life Years),China,Female,Age-standardized,All causes,Low physical activity,Rate,2018,174.8571037,288.4167936,72.15460118
+DALYs (Disability-Adjusted Life Years),China,Female,Age-standardized,All causes,Low physical activity,Rate,2019,174.6217103,294.1801627,72.12486787
+DALYs (Disability-Adjusted Life Years),China,Female,Age-standardized,All causes,Low physical activity,Rate,2020,173.8137883,290.2806582,72.07400313
+DALYs (Disability-Adjusted Life Years),China,Female,Age-standardized,All causes,Low physical activity,Rate,2021,173.9767735,300.7059634,72.22128974
